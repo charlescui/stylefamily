@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>StyleTailor Family - 家庭穿搭智能推荐</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, sans-serif; background: #f8f9fa; color: #333; line-height: 1.6; }
+        .hero { background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #fff; padding: 80px 20px; text-align: center; }
+        .hero h1 { font-size: 3rem; margin-bottom: 20px; }
+        .hero p { font-size: 1.2rem; max-width: 700px; margin: 0 auto 30px; color: #b0b0c0; }
+        .btn { display: inline-block; padding: 12px 32px; border-radius: 8px; text-decoration: none; font-weight: 500; margin: 5px; }
+        .btn-primary { background: #ffd700; color: #1a1a2e; }
+        .btn-secondary { background: transparent; color: #fff; border: 1px solid #fff; }
+        .section { max-width: 1200px; margin: 0 auto; padding: 60px 20px; }
+        .section h2 { font-size: 2rem; margin-bottom: 40px; text-align: center; }
+        .features { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 24px; }
+        .feature-card { background: #fff; padding: 30px; border-radius: 16px; box-shadow: 0 4px 20px rgba(0,0,0,0.06); }
+        .feature-card h3 { margin-bottom: 12px; color: #1a1a2e; }
+        .showcase { background: #fff; }
+        .showcase-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 24px; }
+        .showcase-card { background: #f8f9fa; border-radius: 16px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.06); }
+        .showcase-card img { width: 100%; height: 340px; object-fit: cover; }
+        .showcase-card .info { padding: 20px; }
+        .showcase-card .info h4 { margin-bottom: 8px; }
+        .showcase-card .info p { color: #666; font-size: 0.95rem; }
+        .family-photo { text-align: center; margin-top: 40px; }
+        .family-photo img { max-width: 100%; border-radius: 16px; box-shadow: 0 8px 30px rgba(0,0,0,0.1); }
+        .cta { background: #1a1a2e; color: #fff; text-align: center; }
+        .footer { text-align: center; padding: 40px 20px; color: #999; font-size: 0.9rem; }
+    </style>
+</head>
+<body>
+    <section class="hero">
+        <h1>StyleTailor Family</h1>
+        <p>基于 PocketBase + Golang + Bailian CLI 的家庭穿搭智能推荐系统。每周六早上七点，为家庭每个成员自动生成适合季节和场景的穿搭方案，并生成虚拟试穿效果图。</p>
+        <a href="#showcase" class="btn btn-primary">查看实际案例</a>
+        <a href="https://github.com/charlescui/styletailor-mcp" class="btn btn-secondary">GitHub 仓库</a>
+    </section>
+
+    <section class="section">
+        <h2>核心功能</h2>
+        <div class="features">
+            <div class="feature-card">
+                <h3>‍👩‍👧 家庭成员管理</h3>
+                <p>记录每位家庭成员的身材、风格偏好、喜欢/避免颜色、尺码等信息，支持在 Web 管理页随时更新。</p>
+            </div>
+            <div class="feature-card">
+                <h3>🤖 智能穿搭生成</h3>
+                <p>根据季节、天气、场景自动从商品库中挑选合适的单品，由 Bailian 大模型生成搭配说明。</p>
+            </div>
+            <div class="feature-card">
+                <h3>📊 多维度考评</h3>
+                <p>从季节适配、场合适配、色彩协调、风格一致、搭配完整度五个维度评分，通过后才发布。</p>
+            </div>
+            <div class="feature-card">
+                <h3>🖼️ 虚拟试穿效果</h3>
+                <p>调用 Bailian 图像生成能力，为每个家庭成员生成真实的穿搭效果图。</p>
+            </div>
+            <div class="feature-card">
+                <h3>📺 电视大屏展示</h3>
+                <p>内置全屏展示页面 `/tv.html`，无需翻页，适合在家庭电视上展示本周穿搭。</p>
+            </div>
+            <div class="feature-card">
+                <h3>⏰ 每周自动生成</h3>
+                <p>系统每周六早上 7 点自动运行，生成新的穿搭方案并写入中文 Markdown 文档。</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="section showcase" id="showcase">
+        <h2>实际生成案例</h2>
+        <p style="text-align:center; color:#666; margin-bottom:40px;">以下图片均由 Bailian CLI (`bl image generate`) 实际生成，不是占位图。</p>
+        <div class="showcase-grid">
+            <div class="showcase-card">
+                <img src="images/mom.png" alt="妈妈穿搭">
+                <div class="info">
+                    <h4>妈妈 · 优雅简约</h4>
+                    <p>米白色真丝衬衫 + 高腰阔腿西装裤 + 米色乐福鞋，适合夏季周末聚会。</p>
+                </div>
+            </div>
+            <div class="showcase-card">
+                <img src="images/dad.png" alt="爸爸穿搭">
+                <div class="info">
+                    <h4>爸爸 · 商务休闲</h4>
+                    <p>白色商务衬衫 + 深灰色休闲西裤 + 藏青色西装外套，适合通勤与商务。</p>
+                </div>
+            </div>
+            <div class="showcase-card">
+                <img src="images/daughter.png" alt="女儿穿搭">
+                <div class="info">
+                    <h4>女儿 · 甜美可爱</h4>
+                    <p>粉色纯棉 T 恤 + 白色蕾丝半身裙 + 浅紫色针织外套，活泼甜美。</p>
+                </div>
+            </div>
+        </div>
+        <div class="family-photo">
+            <img src="images/family.png" alt="全家福穿搭">
+            <p style="margin-top:16px; color:#666;">温馨的三口之家家庭穿搭合影</p>
+        </div>
+    </section>
+
+    <section class="section">
+        <h2>系统架构</h2>
+        <div style="background:#fff; padding:40px; border-radius:16px; box-shadow: 0 4px 20px rgba(0,0,0,0.06);">
+            <pre style="overflow-x:auto; font-size:0.95rem; line-height:1.8;">
+用户 / 家庭成员
+      |
+      v
+Web 管理页 / 电视大屏
+      |
+      v
+PocketBase 后端 (Go)
+      |
+      +-- 家庭成员数据 (st_family_members)
+      +-- 商品库 (st_wardrobe_items)
+      +-- 每周穿搭 (st_weekly_outfits)
+      |
+      +-- Bailian CLI 文本生成 (搭配说明)
+      +-- Bailian CLI 图像生成 (试穿效果图)
+      |
+      +-- 多维度考评策略
+      +-- 定时任务 (每周六 07:00)
+            </pre>
+        </div>
+    </section>
+
+    <section class="section cta">
+        <h2>开始使用</h2>
+        <p style="max-width:600px; margin:0 auto 30px; color:#b0b0c0;">克隆仓库，构建并运行，即可体验完整的家庭穿搭推荐系统。</p>
+        <a href="https://github.com/charlescui/styletailor-mcp" class="btn btn-primary">前往 GitHub</a>
+    </section>
+
+    <div class="footer">
+        <p>© 2026 StyleTailor Family. Powered by PocketBase, Golang and Bailian CLI.</p>
+    </div>
+</body>
+</html>
