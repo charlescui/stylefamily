@@ -1,0 +1,3047 @@
+[
+  {
+    "created": "2026-07-29 08:25:26.619Z",
+    "id": "nfum8adi4li13r9",
+    "name": "经典商务层次",
+    "product_ids": [
+      "839141996398",
+      "1031923202372",
+      "717775051200",
+      "775647731996"
+    ],
+    "rank": 1,
+    "rationale": "稳妥适配策略，方案匹配度 65 分。选择依据：各单品正式度与风格标签保持在同一设计语境。需要注意：尚无可用 Avatar 身材摘要，本次未做个体尺码精排。所有结论只针对“层次通勤”本次设计 Brief。",
+    "session_id": "ewjvswio5iyv5yn",
+    "size_note": "AI 视觉效果不等同于精确尺码或真实合身保证。",
+    "status": "proposed",
+    "updated": "2026-07-29 08:25:26.619Z",
+    "coverage_mode": "full_look",
+    "design_snapshot": {
+      "brief": {
+        "promptVersion": "designer-lookbook-v2",
+        "templateSlug": "autumn-layered-office",
+        "templateVersion": 1,
+        "targetGender": "any",
+        "ageRange": "all",
+        "name": "层次通勤",
+        "scene": "商务层次",
+        "season": "summer",
+        "weather": "室内空调温差",
+        "budget": "",
+        "styleIntent": [
+          "利落"
+        ],
+        "designLanguage": "驼色、栗棕、藏青的三层叠穿；西装内搭针织，用材质的层次代替厚重。",
+        "designStory": "秋意渐浓，气温一天凉过一天。叠穿是秋天的语言，也是成熟的分寸感。",
+        "styleTags": [
+          "商务",
+          "叠穿",
+          "大地色",
+          "利落"
+        ],
+        "requiredSlots": [
+          "outerwear",
+          "top",
+          "bottom",
+          "shoes"
+        ],
+        "formality": 4,
+        "spec": {
+          "theme": "层次通勤",
+          "palette": [
+            "深色主调",
+            "低面积金属点缀"
+          ],
+          "silhouette": [
+            "清晰肩线",
+            "自然比例",
+            "有呼吸感的层次"
+          ],
+          "materials": [
+            "以真实商品材质为准"
+          ],
+          "environment": "商务层次",
+          "timeOfDay": "自然日间",
+          "weatherPolicy": [
+            "与本次天气相符"
+          ],
+          "activityIntensity": "中等",
+          "camera": "全身时尚编辑镜头，人物完整入画",
+          "lighting": "柔和自然光，真实肤色与商品色彩",
+          "background": "简洁、不抢商品主体的真实环境",
+          "pose": "自然站姿，双手和双脚完整可见",
+          "expressionTone": "自然、克制且符合场景的微表情",
+          "posePolicy": "先保证全部真实商品、廓形和关键细节可见，再追求自然叙事感",
+          "coverageMode": "full_look",
+          "negativeConstraints": [
+            "不增加人物",
+            "不增加未提供商品",
+            "不改变商品颜色、图案或 Logo",
+            "不改变穿着者身份和体型",
+            "不出现畸形肢体或文字水印"
+          ]
+        }
+      },
+      "composition": {
+        "coverageMode": "full_look",
+        "productFacts": [
+          {
+            "experienceType": "wearable",
+            "wearSlots": [
+              "outerwear"
+            ],
+            "styleTags": [
+              "上衣",
+              "明星同款",
+              "男款",
+              "杰尼亚",
+              "奢品"
+            ],
+            "colors": [],
+            "materials": [],
+            "patterns": [],
+            "silhouettes": [],
+            "seasons": [],
+            "weather": [],
+            "fitPresentation": [],
+            "formality": 3,
+            "referenceQuality": "reference_ready"
+          },
+          {
+            "experienceType": "wearable",
+            "wearSlots": [
+              "top"
+            ],
+            "styleTags": [
+              "上衣",
+              "男款",
+              "杰尼亚",
+              "奢品"
+            ],
+            "colors": [],
+            "materials": [],
+            "patterns": [],
+            "silhouettes": [],
+            "seasons": [],
+            "weather": [],
+            "fitPresentation": [],
+            "formality": 3,
+            "referenceQuality": "reference_ready"
+          },
+          {
+            "experienceType": "wearable",
+            "wearSlots": [
+              "bottom"
+            ],
+            "styleTags": [
+              "下装",
+              "男款",
+              "杰尼亚",
+              "奢品"
+            ],
+            "colors": [],
+            "materials": [],
+            "patterns": [],
+            "silhouettes": [],
+            "seasons": [],
+            "weather": [],
+            "fitPresentation": [],
+            "formality": 3,
+            "referenceQuality": "reference_ready"
+          },
+          {
+            "experienceType": "wearable",
+            "wearSlots": [
+              "shoes"
+            ],
+            "styleTags": [
+              "鞋履",
+              "城市休闲",
+              "明星同款",
+              "男款",
+              "杰尼亚",
+              "奢品"
+            ],
+            "colors": [],
+            "materials": [],
+            "patterns": [],
+            "silhouettes": [],
+            "seasons": [],
+            "weather": [],
+            "fitPresentation": [],
+            "formality": 3,
+            "referenceQuality": "reference_ready"
+          }
+        ],
+        "renderPlan": [
+          {
+            "key": "front",
+            "label": "正面全身",
+            "referenceView": "front",
+            "camera": "正面全身，人物完整入画",
+            "pose": "近正面站姿，仅 0–10 度自然重心偏移，完整展示正面服装",
+            "environment": "中性编辑棚拍",
+            "background": "干净浅色背景，突出服装轮廓",
+            "lighting": "柔和均匀光",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "自然平视镜头，保持真实眼神",
+            "gesture": "双手自然垂放或轻放身体两侧，不遮挡领口、腰线、下装和鞋履",
+            "movement": "稳定静态定格"
+          },
+          {
+            "key": "three_quarter",
+            "label": "45°造型",
+            "referenceView": "front_45",
+            "camera": "45度全身时尚镜头",
+            "pose": "身体自然转向 45 度，肩线放松，展示侧面层次与廓形",
+            "environment": "商务层次",
+            "background": "简洁、不抢商品主体的真实环境",
+            "lighting": "柔和自然光，真实肤色与商品色彩",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "轻微侧目或看向画面留白，不摆拍凝视",
+            "gesture": "手臂自然留出服装轮廓，不触碰或遮挡主推商品",
+            "movement": "轻微转身的自然定格"
+          },
+          {
+            "key": "side",
+            "label": "侧面版型",
+            "referenceView": "side",
+            "camera": "清晰侧面全身镜头",
+            "pose": "清晰 90 度侧身，保持自然站立或极小步幅，展示衣长和轮廓",
+            "environment": "简洁室内空间",
+            "background": "低干扰中性背景",
+            "lighting": "自然柔光",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "自然远眺或侧前方视线",
+            "gesture": "双臂自然顺着身体线条，不遮挡侧面剪裁",
+            "movement": "稳定站姿，避免模糊"
+          },
+          {
+            "key": "environment",
+            "label": "场景效果",
+            "referenceView": "front_45",
+            "camera": "全身时尚编辑镜头，人物完整入画",
+            "pose": "自然站姿，双手和双脚完整可见",
+            "environment": "商务层次",
+            "background": "简洁、不抢商品主体的真实环境",
+            "lighting": "柔和自然光，真实肤色与商品色彩",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "自然看向场景前方，不直视镜头摆拍",
+            "gesture": "与环境保持自然距离；不持有未提供道具，不新增配饰，不遮挡真实商品",
+            "movement": "稳定优雅的定格，不做大幅动作"
+          }
+        ],
+        "stylingReport": {
+          "strategy": "safe_match",
+          "strategyLabel": "稳妥适配",
+          "decisionSource": "bailian_plan_plus_server_scoring",
+          "totalScore": 65,
+          "confidence": "待补充",
+          "breakdown": {
+            "sceneFit": 65,
+            "personalFit": 64,
+            "coordination": 82,
+            "avatarFit": 58,
+            "catalogConfidence": 48
+          },
+          "reasons": [
+            "各单品正式度与风格标签保持在同一设计语境"
+          ],
+          "tradeoffs": [
+            "尚无可用 Avatar 身材摘要，本次未做个体尺码精排",
+            "部分商品设计事实来自保守推断，颜色、材质或版型仍需运营复核"
+          ]
+        }
+      },
+      "plannerDraft": {
+        "name": "经典商务层次",
+        "productIds": [
+          "839141996398",
+          "1031923202372",
+          "717775051200",
+          "775647731996"
+        ],
+        "rationale": "基于您商务通勤的需求，选择杰尼亚羊绒伯爵夹克作为外套，搭配亚麻Polo衫，体现材质层次。漂白棉及亚麻牛仔裤保持整体清爽，深棕色Triple Stitch休闲鞋与大地色系呼应，经典稳重，适合室内空调温差场景。"
+      }
+    }
+  },
+  {
+    "created": "2026-07-29 08:25:26.636Z",
+    "id": "zzwoo6n2raio3zd",
+    "name": "都市摩登层次",
+    "product_ids": [
+      "839141996398",
+      "1031923202372",
+      "717775051200",
+      "880322258490"
+    ],
+    "rank": 2,
+    "rationale": "表达自我策略，方案匹配度 66 分。选择依据：各单品正式度与风格标签保持在同一设计语境。需要注意：尚无可用 Avatar 身材摘要，本次未做个体尺码精排。所有结论只针对“层次通勤”本次设计 Brief。",
+    "session_id": "ewjvswio5iyv5yn",
+    "size_note": "AI 视觉效果不等同于精确尺码或真实合身保证。",
+    "status": "proposed",
+    "updated": "2026-07-29 08:25:26.636Z",
+    "coverage_mode": "full_look",
+    "design_snapshot": {
+      "brief": {
+        "promptVersion": "designer-lookbook-v2",
+        "templateSlug": "autumn-layered-office",
+        "templateVersion": 1,
+        "targetGender": "any",
+        "ageRange": "all",
+        "name": "层次通勤",
+        "scene": "商务层次",
+        "season": "summer",
+        "weather": "室内空调温差",
+        "budget": "",
+        "styleIntent": [
+          "利落"
+        ],
+        "designLanguage": "驼色、栗棕、藏青的三层叠穿；西装内搭针织，用材质的层次代替厚重。",
+        "designStory": "秋意渐浓，气温一天凉过一天。叠穿是秋天的语言，也是成熟的分寸感。",
+        "styleTags": [
+          "商务",
+          "叠穿",
+          "大地色",
+          "利落"
+        ],
+        "requiredSlots": [
+          "outerwear",
+          "top",
+          "bottom",
+          "shoes"
+        ],
+        "formality": 4,
+        "spec": {
+          "theme": "层次通勤",
+          "palette": [
+            "深色主调",
+            "低面积金属点缀"
+          ],
+          "silhouette": [
+            "清晰肩线",
+            "自然比例",
+            "有呼吸感的层次"
+          ],
+          "materials": [
+            "以真实商品材质为准"
+          ],
+          "environment": "商务层次",
+          "timeOfDay": "自然日间",
+          "weatherPolicy": [
+            "与本次天气相符"
+          ],
+          "activityIntensity": "中等",
+          "camera": "全身时尚编辑镜头，人物完整入画",
+          "lighting": "柔和自然光，真实肤色与商品色彩",
+          "background": "简洁、不抢商品主体的真实环境",
+          "pose": "自然站姿，双手和双脚完整可见",
+          "expressionTone": "自然、克制且符合场景的微表情",
+          "posePolicy": "先保证全部真实商品、廓形和关键细节可见，再追求自然叙事感",
+          "coverageMode": "full_look",
+          "negativeConstraints": [
+            "不增加人物",
+            "不增加未提供商品",
+            "不改变商品颜色、图案或 Logo",
+            "不改变穿着者身份和体型",
+            "不出现畸形肢体或文字水印"
+          ]
+        }
+      },
+      "composition": {
+        "coverageMode": "full_look",
+        "productFacts": [
+          {
+            "experienceType": "wearable",
+            "wearSlots": [
+              "outerwear"
+            ],
+            "styleTags": [
+              "上衣",
+              "明星同款",
+              "男款",
+              "杰尼亚",
+              "奢品"
+            ],
+            "colors": [],
+            "materials": [],
+            "patterns": [],
+            "silhouettes": [],
+            "seasons": [],
+            "weather": [],
+            "fitPresentation": [],
+            "formality": 3,
+            "referenceQuality": "reference_ready"
+          },
+          {
+            "experienceType": "wearable",
+            "wearSlots": [
+              "top"
+            ],
+            "styleTags": [
+              "上衣",
+              "男款",
+              "杰尼亚",
+              "奢品"
+            ],
+            "colors": [],
+            "materials": [],
+            "patterns": [],
+            "silhouettes": [],
+            "seasons": [],
+            "weather": [],
+            "fitPresentation": [],
+            "formality": 3,
+            "referenceQuality": "reference_ready"
+          },
+          {
+            "experienceType": "wearable",
+            "wearSlots": [
+              "bottom"
+            ],
+            "styleTags": [
+              "下装",
+              "男款",
+              "杰尼亚",
+              "奢品"
+            ],
+            "colors": [],
+            "materials": [],
+            "patterns": [],
+            "silhouettes": [],
+            "seasons": [],
+            "weather": [],
+            "fitPresentation": [],
+            "formality": 3,
+            "referenceQuality": "reference_ready"
+          },
+          {
+            "experienceType": "wearable",
+            "wearSlots": [
+              "shoes"
+            ],
+            "styleTags": [
+              "鞋履",
+              "城市休闲",
+              "明星同款",
+              "杰尼亚",
+              "奢品"
+            ],
+            "colors": [],
+            "materials": [],
+            "patterns": [],
+            "silhouettes": [],
+            "seasons": [],
+            "weather": [],
+            "fitPresentation": [],
+            "formality": 3,
+            "referenceQuality": "reference_ready"
+          }
+        ],
+        "renderPlan": [
+          {
+            "key": "front",
+            "label": "正面全身",
+            "referenceView": "front",
+            "camera": "正面全身，人物完整入画",
+            "pose": "近正面站姿，仅 0–10 度自然重心偏移，完整展示正面服装",
+            "environment": "中性编辑棚拍",
+            "background": "干净浅色背景，突出服装轮廓",
+            "lighting": "柔和均匀光",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "自然平视镜头，保持真实眼神",
+            "gesture": "双手自然垂放或轻放身体两侧，不遮挡领口、腰线、下装和鞋履",
+            "movement": "稳定静态定格"
+          },
+          {
+            "key": "three_quarter",
+            "label": "45°造型",
+            "referenceView": "front_45",
+            "camera": "45度全身时尚镜头",
+            "pose": "身体自然转向 45 度，肩线放松，展示侧面层次与廓形",
+            "environment": "商务层次",
+            "background": "简洁、不抢商品主体的真实环境",
+            "lighting": "柔和自然光，真实肤色与商品色彩",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "轻微侧目或看向画面留白，不摆拍凝视",
+            "gesture": "手臂自然留出服装轮廓，不触碰或遮挡主推商品",
+            "movement": "轻微转身的自然定格"
+          },
+          {
+            "key": "side",
+            "label": "侧面版型",
+            "referenceView": "side",
+            "camera": "清晰侧面全身镜头",
+            "pose": "清晰 90 度侧身，保持自然站立或极小步幅，展示衣长和轮廓",
+            "environment": "简洁室内空间",
+            "background": "低干扰中性背景",
+            "lighting": "自然柔光",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "自然远眺或侧前方视线",
+            "gesture": "双臂自然顺着身体线条，不遮挡侧面剪裁",
+            "movement": "稳定站姿，避免模糊"
+          },
+          {
+            "key": "environment",
+            "label": "场景效果",
+            "referenceView": "front_45",
+            "camera": "全身时尚编辑镜头，人物完整入画",
+            "pose": "自然站姿，双手和双脚完整可见",
+            "environment": "商务层次",
+            "background": "简洁、不抢商品主体的真实环境",
+            "lighting": "柔和自然光，真实肤色与商品色彩",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "自然看向场景前方，不直视镜头摆拍",
+            "gesture": "与环境保持自然距离；不持有未提供道具，不新增配饰，不遮挡真实商品",
+            "movement": "稳定优雅的定格，不做大幅动作"
+          }
+        ],
+        "stylingReport": {
+          "strategy": "self_expression",
+          "strategyLabel": "表达自我",
+          "decisionSource": "bailian_plan_plus_server_scoring",
+          "totalScore": 66,
+          "confidence": "待补充",
+          "breakdown": {
+            "sceneFit": 65,
+            "personalFit": 64,
+            "coordination": 82,
+            "avatarFit": 58,
+            "catalogConfidence": 48
+          },
+          "reasons": [
+            "各单品正式度与风格标签保持在同一设计语境"
+          ],
+          "tradeoffs": [
+            "尚无可用 Avatar 身材摘要，本次未做个体尺码精排",
+            "部分商品设计事实来自保守推断，颜色、材质或版型仍需运营复核"
+          ]
+        }
+      },
+      "plannerDraft": {
+        "name": "都市摩登层次",
+        "productIds": [
+          "839141996398",
+          "1031923202372",
+          "717775051200",
+          "880322258490"
+        ],
+        "rationale": "在经典基础上，选择陈伟霆同款Triple Stitch SECONDSKIN休闲鞋，无缝工艺与现代感设计为商务造型注入年轻活力，彰显您对细节的独特品味与个性态度。"
+      }
+    }
+  },
+  {
+    "created": "2026-07-29 08:25:26.653Z",
+    "id": "30s1wn7u8ycf6dl",
+    "name": "杰尼亚匠心层次",
+    "product_ids": [
+      "839141996398",
+      "1031923202372",
+      "717775051200",
+      "854445690488"
+    ],
+    "rank": 3,
+    "rationale": "设计师发现策略，方案匹配度 66 分。选择依据：各单品正式度与风格标签保持在同一设计语境。需要注意：尚无可用 Avatar 身材摘要，本次未做个体尺码精排。所有结论只针对“层次通勤”本次设计 Brief。",
+    "session_id": "ewjvswio5iyv5yn",
+    "size_note": "AI 视觉效果不等同于精确尺码或真实合身保证。",
+    "status": "proposed",
+    "updated": "2026-07-29 08:25:26.653Z",
+    "coverage_mode": "full_look",
+    "design_snapshot": {
+      "brief": {
+        "promptVersion": "designer-lookbook-v2",
+        "templateSlug": "autumn-layered-office",
+        "templateVersion": 1,
+        "targetGender": "any",
+        "ageRange": "all",
+        "name": "层次通勤",
+        "scene": "商务层次",
+        "season": "summer",
+        "weather": "室内空调温差",
+        "budget": "",
+        "styleIntent": [
+          "利落"
+        ],
+        "designLanguage": "驼色、栗棕、藏青的三层叠穿；西装内搭针织，用材质的层次代替厚重。",
+        "designStory": "秋意渐浓，气温一天凉过一天。叠穿是秋天的语言，也是成熟的分寸感。",
+        "styleTags": [
+          "商务",
+          "叠穿",
+          "大地色",
+          "利落"
+        ],
+        "requiredSlots": [
+          "outerwear",
+          "top",
+          "bottom",
+          "shoes"
+        ],
+        "formality": 4,
+        "spec": {
+          "theme": "层次通勤",
+          "palette": [
+            "深色主调",
+            "低面积金属点缀"
+          ],
+          "silhouette": [
+            "清晰肩线",
+            "自然比例",
+            "有呼吸感的层次"
+          ],
+          "materials": [
+            "以真实商品材质为准"
+          ],
+          "environment": "商务层次",
+          "timeOfDay": "自然日间",
+          "weatherPolicy": [
+            "与本次天气相符"
+          ],
+          "activityIntensity": "中等",
+          "camera": "全身时尚编辑镜头，人物完整入画",
+          "lighting": "柔和自然光，真实肤色与商品色彩",
+          "background": "简洁、不抢商品主体的真实环境",
+          "pose": "自然站姿，双手和双脚完整可见",
+          "expressionTone": "自然、克制且符合场景的微表情",
+          "posePolicy": "先保证全部真实商品、廓形和关键细节可见，再追求自然叙事感",
+          "coverageMode": "full_look",
+          "negativeConstraints": [
+            "不增加人物",
+            "不增加未提供商品",
+            "不改变商品颜色、图案或 Logo",
+            "不改变穿着者身份和体型",
+            "不出现畸形肢体或文字水印"
+          ]
+        }
+      },
+      "composition": {
+        "coverageMode": "full_look",
+        "productFacts": [
+          {
+            "experienceType": "wearable",
+            "wearSlots": [
+              "outerwear"
+            ],
+            "styleTags": [
+              "上衣",
+              "明星同款",
+              "男款",
+              "杰尼亚",
+              "奢品"
+            ],
+            "colors": [],
+            "materials": [],
+            "patterns": [],
+            "silhouettes": [],
+            "seasons": [],
+            "weather": [],
+            "fitPresentation": [],
+            "formality": 3,
+            "referenceQuality": "reference_ready"
+          },
+          {
+            "experienceType": "wearable",
+            "wearSlots": [
+              "top"
+            ],
+            "styleTags": [
+              "上衣",
+              "男款",
+              "杰尼亚",
+              "奢品"
+            ],
+            "colors": [],
+            "materials": [],
+            "patterns": [],
+            "silhouettes": [],
+            "seasons": [],
+            "weather": [],
+            "fitPresentation": [],
+            "formality": 3,
+            "referenceQuality": "reference_ready"
+          },
+          {
+            "experienceType": "wearable",
+            "wearSlots": [
+              "bottom"
+            ],
+            "styleTags": [
+              "下装",
+              "男款",
+              "杰尼亚",
+              "奢品"
+            ],
+            "colors": [],
+            "materials": [],
+            "patterns": [],
+            "silhouettes": [],
+            "seasons": [],
+            "weather": [],
+            "fitPresentation": [],
+            "formality": 3,
+            "referenceQuality": "reference_ready"
+          },
+          {
+            "experienceType": "wearable",
+            "wearSlots": [
+              "shoes"
+            ],
+            "styleTags": [
+              "鞋履",
+              "城市休闲",
+              "杰尼亚",
+              "奢品"
+            ],
+            "colors": [],
+            "materials": [],
+            "patterns": [],
+            "silhouettes": [],
+            "seasons": [],
+            "weather": [],
+            "fitPresentation": [],
+            "formality": 3,
+            "referenceQuality": "reference_ready"
+          }
+        ],
+        "renderPlan": [
+          {
+            "key": "front",
+            "label": "正面全身",
+            "referenceView": "front",
+            "camera": "正面全身，人物完整入画",
+            "pose": "近正面站姿，仅 0–10 度自然重心偏移，完整展示正面服装",
+            "environment": "中性编辑棚拍",
+            "background": "干净浅色背景，突出服装轮廓",
+            "lighting": "柔和均匀光",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "自然平视镜头，保持真实眼神",
+            "gesture": "双手自然垂放或轻放身体两侧，不遮挡领口、腰线、下装和鞋履",
+            "movement": "稳定静态定格"
+          },
+          {
+            "key": "three_quarter",
+            "label": "45°造型",
+            "referenceView": "front_45",
+            "camera": "45度全身时尚镜头",
+            "pose": "身体自然转向 45 度，肩线放松，展示侧面层次与廓形",
+            "environment": "商务层次",
+            "background": "简洁、不抢商品主体的真实环境",
+            "lighting": "柔和自然光，真实肤色与商品色彩",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "轻微侧目或看向画面留白，不摆拍凝视",
+            "gesture": "手臂自然留出服装轮廓，不触碰或遮挡主推商品",
+            "movement": "轻微转身的自然定格"
+          },
+          {
+            "key": "side",
+            "label": "侧面版型",
+            "referenceView": "side",
+            "camera": "清晰侧面全身镜头",
+            "pose": "清晰 90 度侧身，保持自然站立或极小步幅，展示衣长和轮廓",
+            "environment": "简洁室内空间",
+            "background": "低干扰中性背景",
+            "lighting": "自然柔光",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "自然远眺或侧前方视线",
+            "gesture": "双臂自然顺着身体线条，不遮挡侧面剪裁",
+            "movement": "稳定站姿，避免模糊"
+          },
+          {
+            "key": "environment",
+            "label": "场景效果",
+            "referenceView": "front_45",
+            "camera": "全身时尚编辑镜头，人物完整入画",
+            "pose": "自然站姿，双手和双脚完整可见",
+            "environment": "商务层次",
+            "background": "简洁、不抢商品主体的真实环境",
+            "lighting": "柔和自然光，真实肤色与商品色彩",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "自然看向场景前方，不直视镜头摆拍",
+            "gesture": "与环境保持自然距离；不持有未提供道具，不新增配饰，不遮挡真实商品",
+            "movement": "稳定优雅的定格，不做大幅动作"
+          }
+        ],
+        "stylingReport": {
+          "strategy": "designer_discovery",
+          "strategyLabel": "设计师发现",
+          "decisionSource": "bailian_plan_plus_server_scoring",
+          "totalScore": 66,
+          "confidence": "待补充",
+          "breakdown": {
+            "sceneFit": 65,
+            "personalFit": 64,
+            "coordination": 82,
+            "avatarFit": 58,
+            "catalogConfidence": 48
+          },
+          "reasons": [
+            "各单品正式度与风格标签保持在同一设计语境"
+          ],
+          "tradeoffs": [
+            "尚无可用 Avatar 身材摘要，本次未做个体尺码精排",
+            "部分商品设计事实来自保守推断，颜色、材质或版型仍需运营复核"
+          ]
+        }
+      },
+      "plannerDraft": {
+        "name": "杰尼亚匠心层次",
+        "productIds": [
+          "839141996398",
+          "1031923202372",
+          "717775051200",
+          "854445690488"
+        ],
+        "rationale": "杰尼亚Oasi Cashmere系列从夹克延伸至鞋履，Triple Stitch休闲鞋同样采用羊绒材质，呼应整体质感，强调品牌在面料创新上的执着，适合追求设计师理念与工艺深度的您。"
+      }
+    }
+  },
+  {
+    "created": "2026-07-29 08:30:39.234Z",
+    "id": "o9aqab5m83s7x58",
+    "name": "经典商务叠穿",
+    "product_ids": [
+      "839141996398",
+      "1031923202372",
+      "717775051200",
+      "727400078019"
+    ],
+    "rank": 1,
+    "rationale": "稳妥适配策略，方案匹配度 65 分。选择依据：各单品正式度与风格标签保持在同一设计语境。需要注意：尚无可用 Avatar 身材摘要，本次未做个体尺码精排。所有结论只针对“层次通勤”本次设计 Brief。",
+    "session_id": "qjvqefhr0iba5az",
+    "size_note": "AI 视觉效果不等同于精确尺码或真实合身保证。",
+    "status": "proposed",
+    "updated": "2026-07-29 08:30:39.234Z",
+    "coverage_mode": "full_look",
+    "design_snapshot": {
+      "brief": {
+        "promptVersion": "designer-lookbook-v2",
+        "templateSlug": "autumn-layered-office",
+        "templateVersion": 1,
+        "targetGender": "any",
+        "ageRange": "all",
+        "name": "层次通勤",
+        "scene": "商务层次",
+        "season": "summer",
+        "weather": "室内空调温差",
+        "budget": "",
+        "styleIntent": [
+          "利落"
+        ],
+        "designLanguage": "驼色、栗棕、藏青的三层叠穿；西装内搭针织，用材质的层次代替厚重。",
+        "designStory": "秋意渐浓，气温一天凉过一天。叠穿是秋天的语言，也是成熟的分寸感。",
+        "styleTags": [
+          "商务",
+          "叠穿",
+          "大地色",
+          "利落"
+        ],
+        "requiredSlots": [
+          "outerwear",
+          "top",
+          "bottom",
+          "shoes"
+        ],
+        "formality": 4,
+        "spec": {
+          "theme": "层次通勤",
+          "palette": [
+            "深色主调",
+            "低面积金属点缀"
+          ],
+          "silhouette": [
+            "清晰肩线",
+            "自然比例",
+            "有呼吸感的层次"
+          ],
+          "materials": [
+            "以真实商品材质为准"
+          ],
+          "environment": "商务层次",
+          "timeOfDay": "自然日间",
+          "weatherPolicy": [
+            "与本次天气相符"
+          ],
+          "activityIntensity": "中等",
+          "camera": "全身时尚编辑镜头，人物完整入画",
+          "lighting": "柔和自然光，真实肤色与商品色彩",
+          "background": "简洁、不抢商品主体的真实环境",
+          "pose": "自然站姿，双手和双脚完整可见",
+          "expressionTone": "自然、克制且符合场景的微表情",
+          "posePolicy": "先保证全部真实商品、廓形和关键细节可见，再追求自然叙事感",
+          "coverageMode": "full_look",
+          "anchorPolicy": "soft_preference",
+          "negativeConstraints": [
+            "不增加人物",
+            "不增加未提供商品",
+            "不改变商品颜色、图案或 Logo",
+            "不改变穿着者身份和体型",
+            "不出现畸形肢体或文字水印"
+          ]
+        }
+      },
+      "composition": {
+        "coverageMode": "full_look",
+        "productFacts": [
+          {
+            "experienceType": "wearable",
+            "wearSlots": [
+              "outerwear"
+            ],
+            "styleTags": [
+              "上衣",
+              "明星同款",
+              "男款",
+              "杰尼亚",
+              "奢品"
+            ],
+            "colors": [],
+            "materials": [],
+            "patterns": [],
+            "silhouettes": [],
+            "seasons": [],
+            "weather": [],
+            "fitPresentation": [],
+            "formality": 3,
+            "referenceQuality": "reference_ready"
+          },
+          {
+            "experienceType": "wearable",
+            "wearSlots": [
+              "top"
+            ],
+            "styleTags": [
+              "上衣",
+              "男款",
+              "杰尼亚",
+              "奢品"
+            ],
+            "colors": [],
+            "materials": [],
+            "patterns": [],
+            "silhouettes": [],
+            "seasons": [],
+            "weather": [],
+            "fitPresentation": [],
+            "formality": 3,
+            "referenceQuality": "reference_ready"
+          },
+          {
+            "experienceType": "wearable",
+            "wearSlots": [
+              "bottom"
+            ],
+            "styleTags": [
+              "下装",
+              "男款",
+              "杰尼亚",
+              "奢品"
+            ],
+            "colors": [],
+            "materials": [],
+            "patterns": [],
+            "silhouettes": [],
+            "seasons": [],
+            "weather": [],
+            "fitPresentation": [],
+            "formality": 3,
+            "referenceQuality": "reference_ready"
+          },
+          {
+            "experienceType": "wearable",
+            "wearSlots": [
+              "shoes"
+            ],
+            "styleTags": [
+              "鞋履",
+              "正装",
+              "男款",
+              "杰尼亚",
+              "奢品"
+            ],
+            "colors": [],
+            "materials": [],
+            "patterns": [],
+            "silhouettes": [],
+            "seasons": [],
+            "weather": [],
+            "fitPresentation": [],
+            "formality": 3,
+            "referenceQuality": "reference_ready"
+          }
+        ],
+        "renderPlan": [
+          {
+            "key": "front",
+            "label": "正面全身",
+            "referenceView": "front",
+            "camera": "正面全身，人物完整入画",
+            "pose": "近正面站姿，仅 0–10 度自然重心偏移，完整展示正面服装",
+            "environment": "中性编辑棚拍",
+            "background": "干净浅色背景，突出服装轮廓",
+            "lighting": "柔和均匀光",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "自然平视镜头，保持真实眼神",
+            "gesture": "双手自然垂放或轻放身体两侧，不遮挡领口、腰线、下装和鞋履",
+            "movement": "稳定静态定格"
+          },
+          {
+            "key": "three_quarter",
+            "label": "45°造型",
+            "referenceView": "front_45",
+            "camera": "45度全身时尚镜头",
+            "pose": "身体自然转向 45 度，肩线放松，展示侧面层次与廓形",
+            "environment": "商务层次",
+            "background": "简洁、不抢商品主体的真实环境",
+            "lighting": "柔和自然光，真实肤色与商品色彩",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "轻微侧目或看向画面留白，不摆拍凝视",
+            "gesture": "手臂自然留出服装轮廓，不触碰或遮挡主推商品",
+            "movement": "轻微转身的自然定格"
+          },
+          {
+            "key": "side",
+            "label": "侧面版型",
+            "referenceView": "side",
+            "camera": "清晰侧面全身镜头",
+            "pose": "清晰 90 度侧身，保持自然站立或极小步幅，展示衣长和轮廓",
+            "environment": "简洁室内空间",
+            "background": "低干扰中性背景",
+            "lighting": "自然柔光",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "自然远眺或侧前方视线",
+            "gesture": "双臂自然顺着身体线条，不遮挡侧面剪裁",
+            "movement": "稳定站姿，避免模糊"
+          },
+          {
+            "key": "environment",
+            "label": "场景效果",
+            "referenceView": "front_45",
+            "camera": "全身时尚编辑镜头，人物完整入画",
+            "pose": "自然站姿，双手和双脚完整可见",
+            "environment": "商务层次",
+            "background": "简洁、不抢商品主体的真实环境",
+            "lighting": "柔和自然光，真实肤色与商品色彩",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "自然看向场景前方，不直视镜头摆拍",
+            "gesture": "与环境保持自然距离；不持有未提供道具，不新增配饰，不遮挡真实商品",
+            "movement": "稳定优雅的定格，不做大幅动作"
+          }
+        ],
+        "stylingReport": {
+          "strategy": "safe_match",
+          "strategyLabel": "稳妥适配",
+          "decisionSource": "bailian_plan_plus_server_scoring",
+          "totalScore": 65,
+          "confidence": "待补充",
+          "breakdown": {
+            "sceneFit": 65,
+            "personalFit": 64,
+            "coordination": 82,
+            "avatarFit": 58,
+            "catalogConfidence": 48
+          },
+          "reasons": [
+            "各单品正式度与风格标签保持在同一设计语境"
+          ],
+          "tradeoffs": [
+            "尚无可用 Avatar 身材摘要，本次未做个体尺码精排",
+            "部分商品设计事实来自保守推断，颜色、材质或版型仍需运营复核"
+          ]
+        }
+      },
+      "plannerDraft": {
+        "name": "经典商务叠穿",
+        "productIds": [
+          "839141996398",
+          "1031923202372",
+          "717775051200",
+          "727400078019"
+        ],
+        "rationale": "为您选择这套安全搭配：羊绒伯爵夹克提供空调房内的保暖层次，亚麻Polo衫透气亲肤，漂白牛仔裤平衡整体色调，深棕色牛津鞋强化商务正式感。驼色与栗棕的呼应，符合设计语言中的大地色系，同时兼顾室内外温差，是通勤��"
+      }
+    }
+  },
+  {
+    "created": "2026-07-29 08:30:39.252Z",
+    "id": "3afqae3lu8jj4jb",
+    "name": "明星同款个性表达",
+    "product_ids": [
+      "839141996398",
+      "1031923202372",
+      "717775051200",
+      "899701746539"
+    ],
+    "rank": 2,
+    "rationale": "表达自我策略，方案匹配度 66 分。选择依据：各单品正式度与风格标签保持在同一设计语境。需要注意：尚无可用 Avatar 身材摘要，本次未做个体尺码精排。所有结论只针对“层次通勤”本次设计 Brief。",
+    "session_id": "qjvqefhr0iba5az",
+    "size_note": "AI 视觉效果不等同于精确尺码或真实合身保证。",
+    "status": "proposed",
+    "updated": "2026-07-29 08:30:39.252Z",
+    "coverage_mode": "full_look",
+    "design_snapshot": {
+      "brief": {
+        "promptVersion": "designer-lookbook-v2",
+        "templateSlug": "autumn-layered-office",
+        "templateVersion": 1,
+        "targetGender": "any",
+        "ageRange": "all",
+        "name": "层次通勤",
+        "scene": "商务层次",
+        "season": "summer",
+        "weather": "室内空调温差",
+        "budget": "",
+        "styleIntent": [
+          "利落"
+        ],
+        "designLanguage": "驼色、栗棕、藏青的三层叠穿；西装内搭针织，用材质的层次代替厚重。",
+        "designStory": "秋意渐浓，气温一天凉过一天。叠穿是秋天的语言，也是成熟的分寸感。",
+        "styleTags": [
+          "商务",
+          "叠穿",
+          "大地色",
+          "利落"
+        ],
+        "requiredSlots": [
+          "outerwear",
+          "top",
+          "bottom",
+          "shoes"
+        ],
+        "formality": 4,
+        "spec": {
+          "theme": "层次通勤",
+          "palette": [
+            "深色主调",
+            "低面积金属点缀"
+          ],
+          "silhouette": [
+            "清晰肩线",
+            "自然比例",
+            "有呼吸感的层次"
+          ],
+          "materials": [
+            "以真实商品材质为准"
+          ],
+          "environment": "商务层次",
+          "timeOfDay": "自然日间",
+          "weatherPolicy": [
+            "与本次天气相符"
+          ],
+          "activityIntensity": "中等",
+          "camera": "全身时尚编辑镜头，人物完整入画",
+          "lighting": "柔和自然光，真实肤色与商品色彩",
+          "background": "简洁、不抢商品主体的真实环境",
+          "pose": "自然站姿，双手和双脚完整可见",
+          "expressionTone": "自然、克制且符合场景的微表情",
+          "posePolicy": "先保证全部真实商品、廓形和关键细节可见，再追求自然叙事感",
+          "coverageMode": "full_look",
+          "anchorPolicy": "soft_preference",
+          "negativeConstraints": [
+            "不增加人物",
+            "不增加未提供商品",
+            "不改变商品颜色、图案或 Logo",
+            "不改变穿着者身份和体型",
+            "不出现畸形肢体或文字水印"
+          ]
+        }
+      },
+      "composition": {
+        "coverageMode": "full_look",
+        "productFacts": [
+          {
+            "experienceType": "wearable",
+            "wearSlots": [
+              "outerwear"
+            ],
+            "styleTags": [
+              "上衣",
+              "明星同款",
+              "男款",
+              "杰尼亚",
+              "奢品"
+            ],
+            "colors": [],
+            "materials": [],
+            "patterns": [],
+            "silhouettes": [],
+            "seasons": [],
+            "weather": [],
+            "fitPresentation": [],
+            "formality": 3,
+            "referenceQuality": "reference_ready"
+          },
+          {
+            "experienceType": "wearable",
+            "wearSlots": [
+              "top"
+            ],
+            "styleTags": [
+              "上衣",
+              "男款",
+              "杰尼亚",
+              "奢品"
+            ],
+            "colors": [],
+            "materials": [],
+            "patterns": [],
+            "silhouettes": [],
+            "seasons": [],
+            "weather": [],
+            "fitPresentation": [],
+            "formality": 3,
+            "referenceQuality": "reference_ready"
+          },
+          {
+            "experienceType": "wearable",
+            "wearSlots": [
+              "bottom"
+            ],
+            "styleTags": [
+              "下装",
+              "男款",
+              "杰尼亚",
+              "奢品"
+            ],
+            "colors": [],
+            "materials": [],
+            "patterns": [],
+            "silhouettes": [],
+            "seasons": [],
+            "weather": [],
+            "fitPresentation": [],
+            "formality": 3,
+            "referenceQuality": "reference_ready"
+          },
+          {
+            "experienceType": "wearable",
+            "wearSlots": [
+              "shoes"
+            ],
+            "styleTags": [
+              "鞋履",
+              "明星同款",
+              "男款",
+              "杰尼亚",
+              "奢品"
+            ],
+            "colors": [],
+            "materials": [],
+            "patterns": [],
+            "silhouettes": [],
+            "seasons": [],
+            "weather": [],
+            "fitPresentation": [],
+            "formality": 3,
+            "referenceQuality": "reference_ready"
+          }
+        ],
+        "renderPlan": [
+          {
+            "key": "front",
+            "label": "正面全身",
+            "referenceView": "front",
+            "camera": "正面全身，人物完整入画",
+            "pose": "近正面站姿，仅 0–10 度自然重心偏移，完整展示正面服装",
+            "environment": "中性编辑棚拍",
+            "background": "干净浅色背景，突出服装轮廓",
+            "lighting": "柔和均匀光",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "自然平视镜头，保持真实眼神",
+            "gesture": "双手自然垂放或轻放身体两侧，不遮挡领口、腰线、下装和鞋履",
+            "movement": "稳定静态定格"
+          },
+          {
+            "key": "three_quarter",
+            "label": "45°造型",
+            "referenceView": "front_45",
+            "camera": "45度全身时尚镜头",
+            "pose": "身体自然转向 45 度，肩线放松，展示侧面层次与廓形",
+            "environment": "商务层次",
+            "background": "简洁、不抢商品主体的真实环境",
+            "lighting": "柔和自然光，真实肤色与商品色彩",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "轻微侧目或看向画面留白，不摆拍凝视",
+            "gesture": "手臂自然留出服装轮廓，不触碰或遮挡主推商品",
+            "movement": "轻微转身的自然定格"
+          },
+          {
+            "key": "side",
+            "label": "侧面版型",
+            "referenceView": "side",
+            "camera": "清晰侧面全身镜头",
+            "pose": "清晰 90 度侧身，保持自然站立或极小步幅，展示衣长和轮廓",
+            "environment": "简洁室内空间",
+            "background": "低干扰中性背景",
+            "lighting": "自然柔光",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "自然远眺或侧前方视线",
+            "gesture": "双臂自然顺着身体线条，不遮挡侧面剪裁",
+            "movement": "稳定站姿，避免模糊"
+          },
+          {
+            "key": "environment",
+            "label": "场景效果",
+            "referenceView": "front_45",
+            "camera": "全身时尚编辑镜头，人物完整入画",
+            "pose": "自然站姿，双手和双脚完整可见",
+            "environment": "商务层次",
+            "background": "简洁、不抢商品主体的真实环境",
+            "lighting": "柔和自然光，真实肤色与商品色彩",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "自然看向场景前方，不直视镜头摆拍",
+            "gesture": "与环境保持自然距离；不持有未提供道具，不新增配饰，不遮挡真实商品",
+            "movement": "稳定优雅的定格，不做大幅动作"
+          }
+        ],
+        "stylingReport": {
+          "strategy": "self_expression",
+          "strategyLabel": "表达自我",
+          "decisionSource": "bailian_plan_plus_server_scoring",
+          "totalScore": 66,
+          "confidence": "待补充",
+          "breakdown": {
+            "sceneFit": 65,
+            "personalFit": 64,
+            "coordination": 82,
+            "avatarFit": 58,
+            "catalogConfidence": 48
+          },
+          "reasons": [
+            "各单品正式度与风格标签保持在同一设计语境"
+          ],
+          "tradeoffs": [
+            "尚无可用 Avatar 身材摘要，本次未做个体尺码精排",
+            "部分商品设计事实来自保守推断，颜色、材质或版型仍需运营复核"
+          ]
+        }
+      },
+      "plannerDraft": {
+        "name": "明星同款个性表达",
+        "productIds": [
+          "839141996398",
+          "1031923202372",
+          "717775051200",
+          "899701746539"
+        ],
+        "rationale": "保留基础叠穿框架，用麦叔同款粒面皮乐福鞋替换牛津鞋，瞬间注入休闲优雅的个性态度。乐福鞋的浅棕色与夹克、Polo的材质层次形成细腻对比，既保留商务利落感，又通过明星同款元素展现您的品味，适合希望在办公室中体��"
+      }
+    }
+  },
+  {
+    "created": "2026-07-29 08:30:39.270Z",
+    "id": "l135nn4j0nbkmqb",
+    "name": "杰尼亚设计精髓探索",
+    "product_ids": [
+      "839141996398",
+      "1031923202372",
+      "717775051200",
+      "854445690488"
+    ],
+    "rank": 3,
+    "rationale": "设计师发现策略，方案匹配度 66 分。选择依据：各单品正式度与风格标签保持在同一设计语境。需要注意：尚无可用 Avatar 身材摘要，本次未做个体尺码精排。所有结论只针对“层次通勤”本次设计 Brief。",
+    "session_id": "qjvqefhr0iba5az",
+    "size_note": "AI 视觉效果不等同于精确尺码或真实合身保证。",
+    "status": "proposed",
+    "updated": "2026-07-29 08:30:39.270Z",
+    "coverage_mode": "full_look",
+    "design_snapshot": {
+      "brief": {
+        "promptVersion": "designer-lookbook-v2",
+        "templateSlug": "autumn-layered-office",
+        "templateVersion": 1,
+        "targetGender": "any",
+        "ageRange": "all",
+        "name": "层次通勤",
+        "scene": "商务层次",
+        "season": "summer",
+        "weather": "室内空调温差",
+        "budget": "",
+        "styleIntent": [
+          "利落"
+        ],
+        "designLanguage": "驼色、栗棕、藏青的三层叠穿；西装内搭针织，用材质的层次代替厚重。",
+        "designStory": "秋意渐浓，气温一天凉过一天。叠穿是秋天的语言，也是成熟的分寸感。",
+        "styleTags": [
+          "商务",
+          "叠穿",
+          "大地色",
+          "利落"
+        ],
+        "requiredSlots": [
+          "outerwear",
+          "top",
+          "bottom",
+          "shoes"
+        ],
+        "formality": 4,
+        "spec": {
+          "theme": "层次通勤",
+          "palette": [
+            "深色主调",
+            "低面积金属点缀"
+          ],
+          "silhouette": [
+            "清晰肩线",
+            "自然比例",
+            "有呼吸感的层次"
+          ],
+          "materials": [
+            "以真实商品材质为准"
+          ],
+          "environment": "商务层次",
+          "timeOfDay": "自然日间",
+          "weatherPolicy": [
+            "与本次天气相符"
+          ],
+          "activityIntensity": "中等",
+          "camera": "全身时尚编辑镜头，人物完整入画",
+          "lighting": "柔和自然光，真实肤色与商品色彩",
+          "background": "简洁、不抢商品主体的真实环境",
+          "pose": "自然站姿，双手和双脚完整可见",
+          "expressionTone": "自然、克制且符合场景的微表情",
+          "posePolicy": "先保证全部真实商品、廓形和关键细节可见，再追求自然叙事感",
+          "coverageMode": "full_look",
+          "anchorPolicy": "soft_preference",
+          "negativeConstraints": [
+            "不增加人物",
+            "不增加未提供商品",
+            "不改变商品颜色、图案或 Logo",
+            "不改变穿着者身份和体型",
+            "不出现畸形肢体或文字水印"
+          ]
+        }
+      },
+      "composition": {
+        "coverageMode": "full_look",
+        "productFacts": [
+          {
+            "experienceType": "wearable",
+            "wearSlots": [
+              "outerwear"
+            ],
+            "styleTags": [
+              "上衣",
+              "明星同款",
+              "男款",
+              "杰尼亚",
+              "奢品"
+            ],
+            "colors": [],
+            "materials": [],
+            "patterns": [],
+            "silhouettes": [],
+            "seasons": [],
+            "weather": [],
+            "fitPresentation": [],
+            "formality": 3,
+            "referenceQuality": "reference_ready"
+          },
+          {
+            "experienceType": "wearable",
+            "wearSlots": [
+              "top"
+            ],
+            "styleTags": [
+              "上衣",
+              "男款",
+              "杰尼亚",
+              "奢品"
+            ],
+            "colors": [],
+            "materials": [],
+            "patterns": [],
+            "silhouettes": [],
+            "seasons": [],
+            "weather": [],
+            "fitPresentation": [],
+            "formality": 3,
+            "referenceQuality": "reference_ready"
+          },
+          {
+            "experienceType": "wearable",
+            "wearSlots": [
+              "bottom"
+            ],
+            "styleTags": [
+              "下装",
+              "男款",
+              "杰尼亚",
+              "奢品"
+            ],
+            "colors": [],
+            "materials": [],
+            "patterns": [],
+            "silhouettes": [],
+            "seasons": [],
+            "weather": [],
+            "fitPresentation": [],
+            "formality": 3,
+            "referenceQuality": "reference_ready"
+          },
+          {
+            "experienceType": "wearable",
+            "wearSlots": [
+              "shoes"
+            ],
+            "styleTags": [
+              "鞋履",
+              "城市休闲",
+              "杰尼亚",
+              "奢品"
+            ],
+            "colors": [],
+            "materials": [],
+            "patterns": [],
+            "silhouettes": [],
+            "seasons": [],
+            "weather": [],
+            "fitPresentation": [],
+            "formality": 3,
+            "referenceQuality": "reference_ready"
+          }
+        ],
+        "renderPlan": [
+          {
+            "key": "front",
+            "label": "正面全身",
+            "referenceView": "front",
+            "camera": "正面全身，人物完整入画",
+            "pose": "近正面站姿，仅 0–10 度自然重心偏移，完整展示正面服装",
+            "environment": "中性编辑棚拍",
+            "background": "干净浅色背景，突出服装轮廓",
+            "lighting": "柔和均匀光",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "自然平视镜头，保持真实眼神",
+            "gesture": "双手自然垂放或轻放身体两侧，不遮挡领口、腰线、下装和鞋履",
+            "movement": "稳定静态定格"
+          },
+          {
+            "key": "three_quarter",
+            "label": "45°造型",
+            "referenceView": "front_45",
+            "camera": "45度全身时尚镜头",
+            "pose": "身体自然转向 45 度，肩线放松，展示侧面层次与廓形",
+            "environment": "商务层次",
+            "background": "简洁、不抢商品主体的真实环境",
+            "lighting": "柔和自然光，真实肤色与商品色彩",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "轻微侧目或看向画面留白，不摆拍凝视",
+            "gesture": "手臂自然留出服装轮廓，不触碰或遮挡主推商品",
+            "movement": "轻微转身的自然定格"
+          },
+          {
+            "key": "side",
+            "label": "侧面版型",
+            "referenceView": "side",
+            "camera": "清晰侧面全身镜头",
+            "pose": "清晰 90 度侧身，保持自然站立或极小步幅，展示衣长和轮廓",
+            "environment": "简洁室内空间",
+            "background": "低干扰中性背景",
+            "lighting": "自然柔光",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "自然远眺或侧前方视线",
+            "gesture": "双臂自然顺着身体线条，不遮挡侧面剪裁",
+            "movement": "稳定站姿，避免模糊"
+          },
+          {
+            "key": "environment",
+            "label": "场景效果",
+            "referenceView": "front_45",
+            "camera": "全身时尚编辑镜头，人物完整入画",
+            "pose": "自然站姿，双手和双脚完整可见",
+            "environment": "商务层次",
+            "background": "简洁、不抢商品主体的真实环境",
+            "lighting": "柔和自然光，真实肤色与商品色彩",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "自然看向场景前方，不直视镜头摆拍",
+            "gesture": "与环境保持自然距离；不持有未提供道具，不新增配饰，不遮挡真实商品",
+            "movement": "稳定优雅的定格，不做大幅动作"
+          }
+        ],
+        "stylingReport": {
+          "strategy": "designer_discovery",
+          "strategyLabel": "设计师发现",
+          "decisionSource": "bailian_plan_plus_server_scoring",
+          "totalScore": 66,
+          "confidence": "待补充",
+          "breakdown": {
+            "sceneFit": 65,
+            "personalFit": 64,
+            "coordination": 82,
+            "avatarFit": 58,
+            "catalogConfidence": 48
+          },
+          "reasons": [
+            "各单品正式度与风格标签保持在同一设计语境"
+          ],
+          "tradeoffs": [
+            "尚无可用 Avatar 身材摘要，本次未做个体尺码精排",
+            "部分商品设计事实来自保守推断，颜色、材质或版型仍需运营复核"
+          ]
+        }
+      },
+      "plannerDraft": {
+        "name": "杰尼亚设计精髓探索",
+        "productIds": [
+          "839141996398",
+          "1031923202372",
+          "717775051200",
+          "854445690488"
+        ],
+        "rationale": "这套搭配聚焦杰尼亚的招牌工艺：Oasi Cashmere Triple Stitch休闲鞋以羊绒材质呼应夹克，将奢华面料贯穿全身。在商务层次中融入品牌的标志性鞋履，鞋面与夹克形成材质对话，而牛仔裤的亚麻混纺保持夏季轻盈。这是对品牌设计语"
+      }
+    }
+  },
+  {
+    "created": "2026-07-29 08:43:54.937Z",
+    "id": "c8gkpfmucnpq077",
+    "name": "稳妥适配 · 都市消夏",
+    "product_ids": [
+      "1026114993151",
+      "770262057499",
+      "1044067081249"
+    ],
+    "rank": 1,
+    "rationale": "稳妥适配策略，方案匹配度 67 分。选择依据：季节、体感天气与正式度共同贴合“清爽通勤”场景；用 亚麻、羊毛 形成一致且可辨的材质关系。需要注意：尚无可用 Avatar 身材摘要，本次未做个体尺码精排。所有结论只针对“都市消夏”本次设计 Brief。",
+    "session_id": "gd60cjbwwgi584z",
+    "size_note": "AI 视觉效果不等同于精确尺码或真实合身保证。",
+    "status": "proposed",
+    "updated": "2026-07-29 08:43:54.937Z",
+    "coverage_mode": "full_look",
+    "design_snapshot": {
+      "brief": {
+        "promptVersion": "designer-lookbook-v2",
+        "templateSlug": "summer-city-cool",
+        "templateVersion": 1,
+        "targetGender": "any",
+        "ageRange": "all",
+        "name": "都市消夏",
+        "scene": "清爽通勤",
+        "season": "summer",
+        "weather": "室内空调温差",
+        "budget": "",
+        "styleIntent": [
+          "利落"
+        ],
+        "designLanguage": "透气短袖与直筒长裤，冷色调降温；凉感面料兼顾体面与解暑。",
+        "designStory": "三十几度的写字楼与街道之间来回，凉感面料是体面，也是这个夏天最实在的温柔。",
+        "styleTags": [
+          "通勤",
+          "清爽",
+          "冷色",
+          "利落"
+        ],
+        "requiredSlots": [
+          "top",
+          "bottom",
+          "shoes"
+        ],
+        "formality": 3,
+        "spec": {
+          "theme": "都市消夏",
+          "palette": [
+            "低饱和中性色"
+          ],
+          "silhouette": [
+            "清晰肩线",
+            "自然比例",
+            "有呼吸感的层次"
+          ],
+          "materials": [
+            "以真实商品材质为准"
+          ],
+          "environment": "清爽通勤",
+          "timeOfDay": "自然日间",
+          "weatherPolicy": [
+            "与本次天气相符"
+          ],
+          "activityIntensity": "中等",
+          "camera": "全身时尚编辑镜头，人物完整入画",
+          "lighting": "柔和自然光，真实肤色与商品色彩",
+          "background": "简洁、不抢商品主体的真实环境",
+          "pose": "自然站姿，双手和双脚完整可见",
+          "expressionTone": "自然、克制且符合场景的微表情",
+          "posePolicy": "先保证全部真实商品、廓形和关键细节可见，再追求自然叙事感",
+          "coverageMode": "full_look",
+          "anchorPolicy": "soft_preference",
+          "negativeConstraints": [
+            "不增加人物",
+            "不增加未提供商品",
+            "不改变商品颜色、图案或 Logo",
+            "不改变穿着者身份和体型",
+            "不出现畸形肢体或文字水印"
+          ]
+        }
+      },
+      "composition": {
+        "coverageMode": "full_look",
+        "productFacts": [
+          {
+            "experienceType": "wearable",
+            "wearSlots": [
+              "top"
+            ],
+            "styleTags": [
+              "上衣",
+              "通勤",
+              "正装",
+              "男款",
+              "杰尼亚",
+              "奢品"
+            ],
+            "colors": [],
+            "materials": [
+              "亚麻",
+              "羊毛",
+              "真丝"
+            ],
+            "patterns": [],
+            "silhouettes": [],
+            "seasons": [],
+            "weather": [],
+            "fitPresentation": [],
+            "formality": 3,
+            "referenceQuality": "reference_ready"
+          },
+          {
+            "experienceType": "wearable",
+            "wearSlots": [
+              "bottom"
+            ],
+            "styleTags": [
+              "下装",
+              "通勤",
+              "男款"
+            ],
+            "colors": [],
+            "materials": [],
+            "patterns": [],
+            "silhouettes": [
+              "修身"
+            ],
+            "seasons": [],
+            "weather": [],
+            "fitPresentation": [],
+            "formality": 3,
+            "referenceQuality": "reference_ready"
+          },
+          {
+            "experienceType": "wearable",
+            "wearSlots": [
+              "shoes"
+            ],
+            "styleTags": [
+              "鞋履",
+              "通勤",
+              "女款"
+            ],
+            "colors": [],
+            "materials": [],
+            "patterns": [],
+            "silhouettes": [],
+            "seasons": [],
+            "weather": [],
+            "fitPresentation": [],
+            "formality": 3,
+            "referenceQuality": "reference_ready"
+          }
+        ],
+        "renderPlan": [
+          {
+            "key": "front",
+            "label": "正面全身",
+            "referenceView": "front",
+            "camera": "正面全身，人物完整入画",
+            "pose": "近正面站姿，仅 0–10 度自然重心偏移，完整展示正面服装",
+            "environment": "中性编辑棚拍",
+            "background": "干净浅色背景，突出服装轮廓",
+            "lighting": "柔和均匀光",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "自然平视镜头，保持真实眼神",
+            "gesture": "双手自然垂放或轻放身体两侧，不遮挡领口、腰线、下装和鞋履",
+            "movement": "稳定静态定格"
+          },
+          {
+            "key": "three_quarter",
+            "label": "45°造型",
+            "referenceView": "front_45",
+            "camera": "45度全身时尚镜头",
+            "pose": "身体自然转向 45 度，肩线放松，展示侧面层次与廓形",
+            "environment": "清爽通勤",
+            "background": "简洁、不抢商品主体的真实环境",
+            "lighting": "柔和自然光，真实肤色与商品色彩",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "轻微侧目或看向画面留白，不摆拍凝视",
+            "gesture": "手臂自然留出服装轮廓，不触碰或遮挡主推商品",
+            "movement": "轻微转身的自然定格"
+          },
+          {
+            "key": "side",
+            "label": "侧面版型",
+            "referenceView": "side",
+            "camera": "清晰侧面全身镜头",
+            "pose": "清晰 90 度侧身，保持自然站立或极小步幅，展示衣长和轮廓",
+            "environment": "简洁室内空间",
+            "background": "低干扰中性背景",
+            "lighting": "自然柔光",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "自然远眺或侧前方视线",
+            "gesture": "双臂自然顺着身体线条，不遮挡侧面剪裁",
+            "movement": "稳定站姿，避免模糊"
+          },
+          {
+            "key": "environment",
+            "label": "场景效果",
+            "referenceView": "front_45",
+            "camera": "全身时尚编辑镜头，人物完整入画",
+            "pose": "自然站姿，双手和双脚完整可见",
+            "environment": "清爽通勤",
+            "background": "简洁、不抢商品主体的真实环境",
+            "lighting": "柔和自然光，真实肤色与商品色彩",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "自然关注场景或短暂回望镜头",
+            "gesture": "与环境保持自然距离；不持有未提供道具，不新增配饰，不遮挡真实商品",
+            "movement": "缓慢、清晰的自然定格，保留面料垂坠感"
+          }
+        ],
+        "stylingReport": {
+          "strategy": "safe_match",
+          "strategyLabel": "稳妥适配",
+          "decisionSource": "deterministic_rules",
+          "totalScore": 67,
+          "confidence": "待补充",
+          "breakdown": {
+            "sceneFit": 78,
+            "personalFit": 52,
+            "coordination": 82,
+            "avatarFit": 58,
+            "catalogConfidence": 48
+          },
+          "reasons": [
+            "季节、体感天气与正式度共同贴合“清爽通勤”场景",
+            "用 亚麻、羊毛 形成一致且可辨的材质关系"
+          ],
+          "tradeoffs": [
+            "尚无可用 Avatar 身材摘要，本次未做个体尺码精排",
+            "部分商品设计事实来自保守推断，颜色、材质或版型仍需运营复核"
+          ]
+        }
+      },
+      "plannerDraft": {
+        "name": "稳妥适配",
+        "productIds": null,
+        "rationale": ""
+      }
+    }
+  },
+  {
+    "created": "2026-07-29 08:43:54.942Z",
+    "id": "681xjts9fye0jh2",
+    "name": "表达自我 · 都市消夏",
+    "product_ids": [
+      "589747720411",
+      "770262057499",
+      "1044067081249"
+    ],
+    "rank": 2,
+    "rationale": "表达自我策略，方案匹配度 66 分。选择依据：季节、体感天气与正式度共同贴合“清爽通勤”场景；以 藏青 建立色彩层次，并用 羊毛 保持材质关系。需要注意：尚无可用 Avatar 身材摘要，本次未做个体尺码精排。所有结论只针对“都市消夏”本次设计 Brief。",
+    "session_id": "gd60cjbwwgi584z",
+    "size_note": "AI 视觉效果不等同于精确尺码或真实合身保证。",
+    "status": "proposed",
+    "updated": "2026-07-29 08:43:54.942Z",
+    "coverage_mode": "full_look",
+    "design_snapshot": {
+      "brief": {
+        "promptVersion": "designer-lookbook-v2",
+        "templateSlug": "summer-city-cool",
+        "templateVersion": 1,
+        "targetGender": "any",
+        "ageRange": "all",
+        "name": "都市消夏",
+        "scene": "清爽通勤",
+        "season": "summer",
+        "weather": "室内空调温差",
+        "budget": "",
+        "styleIntent": [
+          "利落"
+        ],
+        "designLanguage": "透气短袖与直筒长裤，冷色调降温；凉感面料兼顾体面与解暑。",
+        "designStory": "三十几度的写字楼与街道之间来回，凉感面料是体面，也是这个夏天最实在的温柔。",
+        "styleTags": [
+          "通勤",
+          "清爽",
+          "冷色",
+          "利落"
+        ],
+        "requiredSlots": [
+          "top",
+          "bottom",
+          "shoes"
+        ],
+        "formality": 3,
+        "spec": {
+          "theme": "都市消夏",
+          "palette": [
+            "低饱和中性色"
+          ],
+          "silhouette": [
+            "清晰肩线",
+            "自然比例",
+            "有呼吸感的层次"
+          ],
+          "materials": [
+            "以真实商品材质为准"
+          ],
+          "environment": "清爽通勤",
+          "timeOfDay": "自然日间",
+          "weatherPolicy": [
+            "与本次天气相符"
+          ],
+          "activityIntensity": "中等",
+          "camera": "全身时尚编辑镜头，人物完整入画",
+          "lighting": "柔和自然光，真实肤色与商品色彩",
+          "background": "简洁、不抢商品主体的真实环境",
+          "pose": "自然站姿，双手和双脚完整可见",
+          "expressionTone": "自然、克制且符合场景的微表情",
+          "posePolicy": "先保证全部真实商品、廓形和关键细节可见，再追求自然叙事感",
+          "coverageMode": "full_look",
+          "anchorPolicy": "soft_preference",
+          "negativeConstraints": [
+            "不增加人物",
+            "不增加未提供商品",
+            "不改变商品颜色、图案或 Logo",
+            "不改变穿着者身份和体型",
+            "不出现畸形肢体或文字水印"
+          ]
+        }
+      },
+      "composition": {
+        "coverageMode": "full_look",
+        "productFacts": [
+          {
+            "experienceType": "wearable",
+            "wearSlots": [
+              "top"
+            ],
+            "styleTags": [
+              "上衣",
+              "通勤",
+              "正装",
+              "男款",
+              "杰尼亚",
+              "奢品"
+            ],
+            "colors": [
+              "藏青"
+            ],
+            "materials": [
+              "羊毛"
+            ],
+            "patterns": [],
+            "silhouettes": [],
+            "seasons": [],
+            "weather": [],
+            "fitPresentation": [],
+            "formality": 3,
+            "referenceQuality": "reference_ready"
+          },
+          {
+            "experienceType": "wearable",
+            "wearSlots": [
+              "bottom"
+            ],
+            "styleTags": [
+              "下装",
+              "通勤",
+              "男款"
+            ],
+            "colors": [],
+            "materials": [],
+            "patterns": [],
+            "silhouettes": [
+              "修身"
+            ],
+            "seasons": [],
+            "weather": [],
+            "fitPresentation": [],
+            "formality": 3,
+            "referenceQuality": "reference_ready"
+          },
+          {
+            "experienceType": "wearable",
+            "wearSlots": [
+              "shoes"
+            ],
+            "styleTags": [
+              "鞋履",
+              "通勤",
+              "女款"
+            ],
+            "colors": [],
+            "materials": [],
+            "patterns": [],
+            "silhouettes": [],
+            "seasons": [],
+            "weather": [],
+            "fitPresentation": [],
+            "formality": 3,
+            "referenceQuality": "reference_ready"
+          }
+        ],
+        "renderPlan": [
+          {
+            "key": "front",
+            "label": "正面全身",
+            "referenceView": "front",
+            "camera": "正面全身，人物完整入画",
+            "pose": "近正面站姿，仅 0–10 度自然重心偏移，完整展示正面服装",
+            "environment": "中性编辑棚拍",
+            "background": "干净浅色背景，突出服装轮廓",
+            "lighting": "柔和均匀光",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "自然平视镜头，保持真实眼神",
+            "gesture": "双手自然垂放或轻放身体两侧，不遮挡领口、腰线、下装和鞋履",
+            "movement": "稳定静态定格"
+          },
+          {
+            "key": "three_quarter",
+            "label": "45°造型",
+            "referenceView": "front_45",
+            "camera": "45度全身时尚镜头",
+            "pose": "身体自然转向 45 度，肩线放松，展示侧面层次与廓形",
+            "environment": "清爽通勤",
+            "background": "简洁、不抢商品主体的真实环境",
+            "lighting": "柔和自然光，真实肤色与商品色彩",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "轻微侧目或看向画面留白，不摆拍凝视",
+            "gesture": "手臂自然留出服装轮廓，不触碰或遮挡主推商品",
+            "movement": "轻微转身的自然定格"
+          },
+          {
+            "key": "side",
+            "label": "侧面版型",
+            "referenceView": "side",
+            "camera": "清晰侧面全身镜头",
+            "pose": "清晰 90 度侧身，保持自然站立或极小步幅，展示衣长和轮廓",
+            "environment": "简洁室内空间",
+            "background": "低干扰中性背景",
+            "lighting": "自然柔光",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "自然远眺或侧前方视线",
+            "gesture": "双臂自然顺着身体线条，不遮挡侧面剪裁",
+            "movement": "稳定站姿，避免模糊"
+          },
+          {
+            "key": "environment",
+            "label": "场景效果",
+            "referenceView": "front_45",
+            "camera": "全身时尚编辑镜头，人物完整入画",
+            "pose": "自然站姿，双手和双脚完整可见",
+            "environment": "清爽通勤",
+            "background": "简洁、不抢商品主体的真实环境",
+            "lighting": "柔和自然光，真实肤色与商品色彩",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "自然关注场景或短暂回望镜头",
+            "gesture": "与环境保持自然距离；不持有未提供道具，不新增配饰，不遮挡真实商品",
+            "movement": "从容自然的生活化定格"
+          }
+        ],
+        "stylingReport": {
+          "strategy": "self_expression",
+          "strategyLabel": "表达自我",
+          "decisionSource": "deterministic_rules",
+          "totalScore": 66,
+          "confidence": "待补充",
+          "breakdown": {
+            "sceneFit": 78,
+            "personalFit": 52,
+            "coordination": 82,
+            "avatarFit": 58,
+            "catalogConfidence": 48
+          },
+          "reasons": [
+            "季节、体感天气与正式度共同贴合“清爽通勤”场景",
+            "以 藏青 建立色彩层次，并用 羊毛 保持材质关系"
+          ],
+          "tradeoffs": [
+            "尚无可用 Avatar 身材摘要，本次未做个体尺码精排",
+            "部分商品设计事实来自保守推断，颜色、材质或版型仍需运营复核"
+          ]
+        }
+      },
+      "plannerDraft": {
+        "name": "表达自我",
+        "productIds": null,
+        "rationale": ""
+      }
+    }
+  },
+  {
+    "created": "2026-07-29 08:43:54.946Z",
+    "id": "mx24octjzhfmxi7",
+    "name": "设计师发现 · 都市消夏",
+    "product_ids": [
+      "656150851098",
+      "770262057499",
+      "1044067081249"
+    ],
+    "rank": 3,
+    "rationale": "设计师发现策略，方案匹配度 66 分。选择依据：季节、体感天气与正式度共同贴合“清爽通勤”场景；用 棉、羊毛 形成一致且可辨的材质关系。需要注意：尚无可用 Avatar 身材摘要，本次未做个体尺码精排。所有结论只针对“都市消夏”本次设计 Brief。",
+    "session_id": "gd60cjbwwgi584z",
+    "size_note": "AI 视觉效果不等同于精确尺码或真实合身保证。",
+    "status": "proposed",
+    "updated": "2026-07-29 08:43:54.946Z",
+    "coverage_mode": "full_look",
+    "design_snapshot": {
+      "brief": {
+        "promptVersion": "designer-lookbook-v2",
+        "templateSlug": "summer-city-cool",
+        "templateVersion": 1,
+        "targetGender": "any",
+        "ageRange": "all",
+        "name": "都市消夏",
+        "scene": "清爽通勤",
+        "season": "summer",
+        "weather": "室内空调温差",
+        "budget": "",
+        "styleIntent": [
+          "利落"
+        ],
+        "designLanguage": "透气短袖与直筒长裤，冷色调降温；凉感面料兼顾体面与解暑。",
+        "designStory": "三十几度的写字楼与街道之间来回，凉感面料是体面，也是这个夏天最实在的温柔。",
+        "styleTags": [
+          "通勤",
+          "清爽",
+          "冷色",
+          "利落"
+        ],
+        "requiredSlots": [
+          "top",
+          "bottom",
+          "shoes"
+        ],
+        "formality": 3,
+        "spec": {
+          "theme": "都市消夏",
+          "palette": [
+            "低饱和中性色"
+          ],
+          "silhouette": [
+            "清晰肩线",
+            "自然比例",
+            "有呼吸感的层次"
+          ],
+          "materials": [
+            "以真实商品材质为准"
+          ],
+          "environment": "清爽通勤",
+          "timeOfDay": "自然日间",
+          "weatherPolicy": [
+            "与本次天气相符"
+          ],
+          "activityIntensity": "中等",
+          "camera": "全身时尚编辑镜头，人物完整入画",
+          "lighting": "柔和自然光，真实肤色与商品色彩",
+          "background": "简洁、不抢商品主体的真实环境",
+          "pose": "自然站姿，双手和双脚完整可见",
+          "expressionTone": "自然、克制且符合场景的微表情",
+          "posePolicy": "先保证全部真实商品、廓形和关键细节可见，再追求自然叙事感",
+          "coverageMode": "full_look",
+          "anchorPolicy": "soft_preference",
+          "negativeConstraints": [
+            "不增加人物",
+            "不增加未提供商品",
+            "不改变商品颜色、图案或 Logo",
+            "不改变穿着者身份和体型",
+            "不出现畸形肢体或文字水印"
+          ]
+        }
+      },
+      "composition": {
+        "coverageMode": "full_look",
+        "productFacts": [
+          {
+            "experienceType": "wearable",
+            "wearSlots": [
+              "top"
+            ],
+            "styleTags": [
+              "上衣",
+              "通勤",
+              "正装",
+              "男款",
+              "杰尼亚",
+              "奢品"
+            ],
+            "colors": [],
+            "materials": [
+              "棉",
+              "羊毛"
+            ],
+            "patterns": [],
+            "silhouettes": [],
+            "seasons": [],
+            "weather": [],
+            "fitPresentation": [],
+            "formality": 3,
+            "referenceQuality": "reference_ready"
+          },
+          {
+            "experienceType": "wearable",
+            "wearSlots": [
+              "bottom"
+            ],
+            "styleTags": [
+              "下装",
+              "通勤",
+              "男款"
+            ],
+            "colors": [],
+            "materials": [],
+            "patterns": [],
+            "silhouettes": [
+              "修身"
+            ],
+            "seasons": [],
+            "weather": [],
+            "fitPresentation": [],
+            "formality": 3,
+            "referenceQuality": "reference_ready"
+          },
+          {
+            "experienceType": "wearable",
+            "wearSlots": [
+              "shoes"
+            ],
+            "styleTags": [
+              "鞋履",
+              "通勤",
+              "女款"
+            ],
+            "colors": [],
+            "materials": [],
+            "patterns": [],
+            "silhouettes": [],
+            "seasons": [],
+            "weather": [],
+            "fitPresentation": [],
+            "formality": 3,
+            "referenceQuality": "reference_ready"
+          }
+        ],
+        "renderPlan": [
+          {
+            "key": "front",
+            "label": "正面全身",
+            "referenceView": "front",
+            "camera": "正面全身，人物完整入画",
+            "pose": "近正面站姿，仅 0–10 度自然重心偏移，完整展示正面服装",
+            "environment": "中性编辑棚拍",
+            "background": "干净浅色背景，突出服装轮廓",
+            "lighting": "柔和均匀光",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "自然平视镜头，保持真实眼神",
+            "gesture": "双手自然垂放或轻放身体两侧，不遮挡领口、腰线、下装和鞋履",
+            "movement": "稳定静态定格"
+          },
+          {
+            "key": "three_quarter",
+            "label": "45°造型",
+            "referenceView": "front_45",
+            "camera": "45度全身时尚镜头",
+            "pose": "身体自然转向 45 度，肩线放松，展示侧面层次与廓形",
+            "environment": "清爽通勤",
+            "background": "简洁、不抢商品主体的真实环境",
+            "lighting": "柔和自然光，真实肤色与商品色彩",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "轻微侧目或看向画面留白，不摆拍凝视",
+            "gesture": "手臂自然留出服装轮廓，不触碰或遮挡主推商品",
+            "movement": "轻微转身的自然定格"
+          },
+          {
+            "key": "side",
+            "label": "侧面版型",
+            "referenceView": "side",
+            "camera": "清晰侧面全身镜头",
+            "pose": "清晰 90 度侧身，保持自然站立或极小步幅，展示衣长和轮廓",
+            "environment": "简洁室内空间",
+            "background": "低干扰中性背景",
+            "lighting": "自然柔光",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "自然远眺或侧前方视线",
+            "gesture": "双臂自然顺着身体线条，不遮挡侧面剪裁",
+            "movement": "稳定站姿，避免模糊"
+          },
+          {
+            "key": "environment",
+            "label": "场景效果",
+            "referenceView": "front_45",
+            "camera": "全身时尚编辑镜头，人物完整入画",
+            "pose": "自然站姿，双手和双脚完整可见",
+            "environment": "清爽通勤",
+            "background": "简洁、不抢商品主体的真实环境",
+            "lighting": "柔和自然光，真实肤色与商品色彩",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "自然关注场景或短暂回望镜头",
+            "gesture": "与环境保持自然距离；不持有未提供道具，不新增配饰，不遮挡真实商品",
+            "movement": "从容自然的生活化定格"
+          }
+        ],
+        "stylingReport": {
+          "strategy": "designer_discovery",
+          "strategyLabel": "设计师发现",
+          "decisionSource": "deterministic_rules",
+          "totalScore": 66,
+          "confidence": "待补充",
+          "breakdown": {
+            "sceneFit": 78,
+            "personalFit": 52,
+            "coordination": 82,
+            "avatarFit": 58,
+            "catalogConfidence": 48
+          },
+          "reasons": [
+            "季节、体感天气与正式度共同贴合“清爽通勤”场景",
+            "用 棉、羊毛 形成一致且可辨的材质关系"
+          ],
+          "tradeoffs": [
+            "尚无可用 Avatar 身材摘要，本次未做个体尺码精排",
+            "部分商品设计事实来自保守推断，颜色、材质或版型仍需运营复核"
+          ]
+        }
+      },
+      "plannerDraft": {
+        "name": "设计师发现",
+        "productIds": null,
+        "rationale": ""
+      }
+    }
+  },
+  {
+    "created": "2026-07-29 08:45:19.806Z",
+    "id": "a471q4dbqnmt6rp",
+    "name": "稳妥适配 · 都市消夏",
+    "product_ids": [
+      "1026114993151",
+      "1013844471728",
+      "1018133212547"
+    ],
+    "rank": 1,
+    "rationale": "稳妥适配策略，方案匹配度 67 分。选择依据：季节、体感天气与正式度共同贴合“清爽通勤”场景；用 亚麻、羊毛 形成一致且可辨的材质关系。需要注意：尚无可用 Avatar 身材摘要，本次未做个体尺码精排。所有结论只针对“都市消夏”本次设计 Brief。",
+    "session_id": "dspxl3i3d2lva9g",
+    "size_note": "AI 视觉效果不等同于精确尺码或真实合身保证。",
+    "status": "proposed",
+    "updated": "2026-07-29 08:45:19.806Z",
+    "coverage_mode": "full_look",
+    "design_snapshot": {
+      "brief": {
+        "promptVersion": "designer-lookbook-v2",
+        "templateSlug": "summer-city-cool",
+        "templateVersion": 1,
+        "targetGender": "any",
+        "ageRange": "all",
+        "name": "都市消夏",
+        "scene": "清爽通勤",
+        "season": "summer",
+        "weather": "室内空调温差",
+        "budget": "",
+        "styleIntent": [
+          "利落"
+        ],
+        "designLanguage": "透气短袖与直筒长裤，冷色调降温；凉感面料兼顾体面与解暑。",
+        "designStory": "三十几度的写字楼与街道之间来回，凉感面料是体面，也是这个夏天最实在的温柔。",
+        "styleTags": [
+          "通勤",
+          "清爽",
+          "冷色",
+          "利落"
+        ],
+        "requiredSlots": [
+          "top",
+          "bottom",
+          "shoes"
+        ],
+        "formality": 3,
+        "spec": {
+          "theme": "都市消夏",
+          "palette": [
+            "低饱和中性色"
+          ],
+          "silhouette": [
+            "清晰肩线",
+            "自然比例",
+            "有呼吸感的层次"
+          ],
+          "materials": [
+            "以真实商品材质为准"
+          ],
+          "environment": "清爽通勤",
+          "timeOfDay": "自然日间",
+          "weatherPolicy": [
+            "与本次天气相符"
+          ],
+          "activityIntensity": "中等",
+          "camera": "全身时尚编辑镜头，人物完整入画",
+          "lighting": "柔和自然光，真实肤色与商品色彩",
+          "background": "简洁、不抢商品主体的真实环境",
+          "pose": "自然站姿，双手和双脚完整可见",
+          "expressionTone": "自然、克制且符合场景的微表情",
+          "posePolicy": "先保证全部真实商品、廓形和关键细节可见，再追求自然叙事感",
+          "coverageMode": "full_look",
+          "anchorPolicy": "soft_preference",
+          "negativeConstraints": [
+            "不增加人物",
+            "不增加未提供商品",
+            "不改变商品颜色、图案或 Logo",
+            "不改变穿着者身份和体型",
+            "不出现畸形肢体或文字水印"
+          ]
+        }
+      },
+      "composition": {
+        "coverageMode": "full_look",
+        "productFacts": [
+          {
+            "experienceType": "wearable",
+            "wearSlots": [
+              "top"
+            ],
+            "styleTags": [
+              "上衣",
+              "通勤",
+              "正装",
+              "男款",
+              "杰尼亚",
+              "奢品"
+            ],
+            "colors": [],
+            "materials": [
+              "亚麻",
+              "羊毛",
+              "真丝"
+            ],
+            "patterns": [],
+            "silhouettes": [],
+            "seasons": [],
+            "weather": [],
+            "fitPresentation": [],
+            "formality": 3,
+            "referenceQuality": "reference_ready"
+          },
+          {
+            "experienceType": "wearable",
+            "wearSlots": [
+              "bottom"
+            ],
+            "styleTags": [
+              "下装",
+              "城市休闲",
+              "通勤"
+            ],
+            "colors": [],
+            "materials": [
+              "亚麻"
+            ],
+            "patterns": [
+              "刺绣"
+            ],
+            "silhouettes": [],
+            "seasons": [],
+            "weather": [],
+            "fitPresentation": [],
+            "formality": 3,
+            "referenceQuality": "reference_ready"
+          },
+          {
+            "experienceType": "wearable",
+            "wearSlots": [
+              "shoes"
+            ],
+            "styleTags": [
+              "鞋履",
+              "城市休闲",
+              "通勤",
+              "男款"
+            ],
+            "colors": [],
+            "materials": [],
+            "patterns": [],
+            "silhouettes": [],
+            "seasons": [],
+            "weather": [],
+            "fitPresentation": [],
+            "formality": 3,
+            "referenceQuality": "reference_ready"
+          }
+        ],
+        "renderPlan": [
+          {
+            "key": "front",
+            "label": "正面全身",
+            "referenceView": "front",
+            "camera": "正面全身，人物完整入画",
+            "pose": "近正面站姿，仅 0–10 度自然重心偏移，完整展示正面服装",
+            "environment": "中性编辑棚拍",
+            "background": "干净浅色背景，突出服装轮廓",
+            "lighting": "柔和均匀光",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "自然平视镜头，保持真实眼神",
+            "gesture": "双手自然垂放或轻放身体两侧，不遮挡领口、腰线、下装和鞋履",
+            "movement": "稳定静态定格"
+          },
+          {
+            "key": "three_quarter",
+            "label": "45°造型",
+            "referenceView": "front_45",
+            "camera": "45度全身时尚镜头",
+            "pose": "身体自然转向 45 度，肩线放松，展示侧面层次与廓形",
+            "environment": "清爽通勤",
+            "background": "简洁、不抢商品主体的真实环境",
+            "lighting": "柔和自然光，真实肤色与商品色彩",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "轻微侧目或看向画面留白，不摆拍凝视",
+            "gesture": "手臂自然留出服装轮廓，不触碰或遮挡主推商品",
+            "movement": "轻微转身的自然定格"
+          },
+          {
+            "key": "side",
+            "label": "侧面版型",
+            "referenceView": "side",
+            "camera": "清晰侧面全身镜头",
+            "pose": "清晰 90 度侧身，保持自然站立或极小步幅，展示衣长和轮廓",
+            "environment": "简洁室内空间",
+            "background": "低干扰中性背景",
+            "lighting": "自然柔光",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "自然远眺或侧前方视线",
+            "gesture": "双臂自然顺着身体线条，不遮挡侧面剪裁",
+            "movement": "稳定站姿，避免模糊"
+          },
+          {
+            "key": "environment",
+            "label": "场景效果",
+            "referenceView": "front_45",
+            "camera": "全身时尚编辑镜头，人物完整入画",
+            "pose": "自然站姿，双手和双脚完整可见",
+            "environment": "清爽通勤",
+            "background": "简洁、不抢商品主体的真实环境",
+            "lighting": "柔和自然光，真实肤色与商品色彩",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "自然关注场景或短暂回望镜头",
+            "gesture": "与环境保持自然距离；不持有未提供道具，不新增配饰，不遮挡真实商品",
+            "movement": "缓慢、清晰的自然定格，保留面料垂坠感"
+          }
+        ],
+        "stylingReport": {
+          "strategy": "safe_match",
+          "strategyLabel": "稳妥适配",
+          "decisionSource": "deterministic_rules",
+          "totalScore": 67,
+          "confidence": "待补充",
+          "breakdown": {
+            "sceneFit": 78,
+            "personalFit": 52,
+            "coordination": 83,
+            "avatarFit": 58,
+            "catalogConfidence": 48
+          },
+          "reasons": [
+            "季节、体感天气与正式度共同贴合“清爽通勤”场景",
+            "用 亚麻、羊毛 形成一致且可辨的材质关系"
+          ],
+          "tradeoffs": [
+            "尚无可用 Avatar 身材摘要，本次未做个体尺码精排",
+            "部分商品设计事实来自保守推断，颜色、材质或版型仍需运营复核"
+          ]
+        }
+      },
+      "plannerDraft": {
+        "name": "稳妥适配",
+        "productIds": null,
+        "rationale": ""
+      }
+    }
+  },
+  {
+    "created": "2026-07-29 08:45:19.862Z",
+    "id": "l3895ftk7u63r5y",
+    "name": "表达自我 · 都市消夏",
+    "product_ids": [
+      "589747720411",
+      "770262057499",
+      "1018598798380"
+    ],
+    "rank": 2,
+    "rationale": "表达自我策略，方案匹配度 66 分。选择依据：季节、体感天气与正式度共同贴合“清爽通勤”场景；以 藏青 建立色彩层次，并用 羊毛 保持材质关系。需要注意：尚无可用 Avatar 身材摘要，本次未做个体尺码精排。所有结论只针对“都市消夏”本次设计 Brief。",
+    "session_id": "dspxl3i3d2lva9g",
+    "size_note": "AI 视觉效果不等同于精确尺码或真实合身保证。",
+    "status": "proposed",
+    "updated": "2026-07-29 08:45:19.862Z",
+    "coverage_mode": "full_look",
+    "design_snapshot": {
+      "brief": {
+        "promptVersion": "designer-lookbook-v2",
+        "templateSlug": "summer-city-cool",
+        "templateVersion": 1,
+        "targetGender": "any",
+        "ageRange": "all",
+        "name": "都市消夏",
+        "scene": "清爽通勤",
+        "season": "summer",
+        "weather": "室内空调温差",
+        "budget": "",
+        "styleIntent": [
+          "利落"
+        ],
+        "designLanguage": "透气短袖与直筒长裤，冷色调降温；凉感面料兼顾体面与解暑。",
+        "designStory": "三十几度的写字楼与街道之间来回，凉感面料是体面，也是这个夏天最实在的温柔。",
+        "styleTags": [
+          "通勤",
+          "清爽",
+          "冷色",
+          "利落"
+        ],
+        "requiredSlots": [
+          "top",
+          "bottom",
+          "shoes"
+        ],
+        "formality": 3,
+        "spec": {
+          "theme": "都市消夏",
+          "palette": [
+            "低饱和中性色"
+          ],
+          "silhouette": [
+            "清晰肩线",
+            "自然比例",
+            "有呼吸感的层次"
+          ],
+          "materials": [
+            "以真实商品材质为准"
+          ],
+          "environment": "清爽通勤",
+          "timeOfDay": "自然日间",
+          "weatherPolicy": [
+            "与本次天气相符"
+          ],
+          "activityIntensity": "中等",
+          "camera": "全身时尚编辑镜头，人物完整入画",
+          "lighting": "柔和自然光，真实肤色与商品色彩",
+          "background": "简洁、不抢商品主体的真实环境",
+          "pose": "自然站姿，双手和双脚完整可见",
+          "expressionTone": "自然、克制且符合场景的微表情",
+          "posePolicy": "先保证全部真实商品、廓形和关键细节可见，再追求自然叙事感",
+          "coverageMode": "full_look",
+          "anchorPolicy": "soft_preference",
+          "negativeConstraints": [
+            "不增加人物",
+            "不增加未提供商品",
+            "不改变商品颜色、图案或 Logo",
+            "不改变穿着者身份和体型",
+            "不出现畸形肢体或文字水印"
+          ]
+        }
+      },
+      "composition": {
+        "coverageMode": "full_look",
+        "productFacts": [
+          {
+            "experienceType": "wearable",
+            "wearSlots": [
+              "top"
+            ],
+            "styleTags": [
+              "上衣",
+              "通勤",
+              "正装",
+              "男款",
+              "杰尼亚",
+              "奢品"
+            ],
+            "colors": [
+              "藏青"
+            ],
+            "materials": [
+              "羊毛"
+            ],
+            "patterns": [],
+            "silhouettes": [],
+            "seasons": [],
+            "weather": [],
+            "fitPresentation": [],
+            "formality": 3,
+            "referenceQuality": "reference_ready"
+          },
+          {
+            "experienceType": "wearable",
+            "wearSlots": [
+              "bottom"
+            ],
+            "styleTags": [
+              "下装",
+              "通勤",
+              "男款"
+            ],
+            "colors": [],
+            "materials": [],
+            "patterns": [],
+            "silhouettes": [
+              "修身"
+            ],
+            "seasons": [],
+            "weather": [],
+            "fitPresentation": [],
+            "formality": 3,
+            "referenceQuality": "reference_ready"
+          },
+          {
+            "experienceType": "wearable",
+            "wearSlots": [
+              "shoes"
+            ],
+            "styleTags": [
+              "鞋履",
+              "城市休闲",
+              "通勤",
+              "男款"
+            ],
+            "colors": [],
+            "materials": [],
+            "patterns": [],
+            "silhouettes": [],
+            "seasons": [],
+            "weather": [],
+            "fitPresentation": [],
+            "formality": 3,
+            "referenceQuality": "reference_ready"
+          }
+        ],
+        "renderPlan": [
+          {
+            "key": "front",
+            "label": "正面全身",
+            "referenceView": "front",
+            "camera": "正面全身，人物完整入画",
+            "pose": "近正面站姿，仅 0–10 度自然重心偏移，完整展示正面服装",
+            "environment": "中性编辑棚拍",
+            "background": "干净浅色背景，突出服装轮廓",
+            "lighting": "柔和均匀光",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "自然平视镜头，保持真实眼神",
+            "gesture": "双手自然垂放或轻放身体两侧，不遮挡领口、腰线、下装和鞋履",
+            "movement": "稳定静态定格"
+          },
+          {
+            "key": "three_quarter",
+            "label": "45°造型",
+            "referenceView": "front_45",
+            "camera": "45度全身时尚镜头",
+            "pose": "身体自然转向 45 度，肩线放松，展示侧面层次与廓形",
+            "environment": "清爽通勤",
+            "background": "简洁、不抢商品主体的真实环境",
+            "lighting": "柔和自然光，真实肤色与商品色彩",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "轻微侧目或看向画面留白，不摆拍凝视",
+            "gesture": "手臂自然留出服装轮廓，不触碰或遮挡主推商品",
+            "movement": "轻微转身的自然定格"
+          },
+          {
+            "key": "side",
+            "label": "侧面版型",
+            "referenceView": "side",
+            "camera": "清晰侧面全身镜头",
+            "pose": "清晰 90 度侧身，保持自然站立或极小步幅，展示衣长和轮廓",
+            "environment": "简洁室内空间",
+            "background": "低干扰中性背景",
+            "lighting": "自然柔光",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "自然远眺或侧前方视线",
+            "gesture": "双臂自然顺着身体线条，不遮挡侧面剪裁",
+            "movement": "稳定站姿，避免模糊"
+          },
+          {
+            "key": "environment",
+            "label": "场景效果",
+            "referenceView": "front_45",
+            "camera": "全身时尚编辑镜头，人物完整入画",
+            "pose": "自然站姿，双手和双脚完整可见",
+            "environment": "清爽通勤",
+            "background": "简洁、不抢商品主体的真实环境",
+            "lighting": "柔和自然光，真实肤色与商品色彩",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "自然关注场景或短暂回望镜头",
+            "gesture": "与环境保持自然距离；不持有未提供道具，不新增配饰，不遮挡真实商品",
+            "movement": "从容自然的生活化定格"
+          }
+        ],
+        "stylingReport": {
+          "strategy": "self_expression",
+          "strategyLabel": "表达自我",
+          "decisionSource": "deterministic_rules",
+          "totalScore": 66,
+          "confidence": "待补充",
+          "breakdown": {
+            "sceneFit": 78,
+            "personalFit": 52,
+            "coordination": 82,
+            "avatarFit": 58,
+            "catalogConfidence": 48
+          },
+          "reasons": [
+            "季节、体感天气与正式度共同贴合“清爽通勤”场景",
+            "以 藏青 建立色彩层次，并用 羊毛 保持材质关系"
+          ],
+          "tradeoffs": [
+            "尚无可用 Avatar 身材摘要，本次未做个体尺码精排",
+            "部分商品设计事实来自保守推断，颜色、材质或版型仍需运营复核"
+          ]
+        }
+      },
+      "plannerDraft": {
+        "name": "表达自我",
+        "productIds": null,
+        "rationale": ""
+      }
+    }
+  },
+  {
+    "created": "2026-07-29 08:45:19.914Z",
+    "id": "e97xnbpc9sr0o76",
+    "name": "设计师发现 · 都市消夏",
+    "product_ids": [
+      "656150851098",
+      "940881802321",
+      "1044067081249"
+    ],
+    "rank": 3,
+    "rationale": "设计师发现策略，方案匹配度 66 分。选择依据：季节、体感天气与正式度共同贴合“清爽通勤”场景；用 棉、羊毛 形成一致且可辨的材质关系。需要注意：尚无可用 Avatar 身材摘要，本次未做个体尺码精排。所有结论只针对“都市消夏”本次设计 Brief。",
+    "session_id": "dspxl3i3d2lva9g",
+    "size_note": "AI 视觉效果不等同于精确尺码或真实合身保证。",
+    "status": "proposed",
+    "updated": "2026-07-29 08:45:19.914Z",
+    "coverage_mode": "full_look",
+    "design_snapshot": {
+      "brief": {
+        "promptVersion": "designer-lookbook-v2",
+        "templateSlug": "summer-city-cool",
+        "templateVersion": 1,
+        "targetGender": "any",
+        "ageRange": "all",
+        "name": "都市消夏",
+        "scene": "清爽通勤",
+        "season": "summer",
+        "weather": "室内空调温差",
+        "budget": "",
+        "styleIntent": [
+          "利落"
+        ],
+        "designLanguage": "透气短袖与直筒长裤，冷色调降温；凉感面料兼顾体面与解暑。",
+        "designStory": "三十几度的写字楼与街道之间来回，凉感面料是体面，也是这个夏天最实在的温柔。",
+        "styleTags": [
+          "通勤",
+          "清爽",
+          "冷色",
+          "利落"
+        ],
+        "requiredSlots": [
+          "top",
+          "bottom",
+          "shoes"
+        ],
+        "formality": 3,
+        "spec": {
+          "theme": "都市消夏",
+          "palette": [
+            "低饱和中性色"
+          ],
+          "silhouette": [
+            "清晰肩线",
+            "自然比例",
+            "有呼吸感的层次"
+          ],
+          "materials": [
+            "以真实商品材质为准"
+          ],
+          "environment": "清爽通勤",
+          "timeOfDay": "自然日间",
+          "weatherPolicy": [
+            "与本次天气相符"
+          ],
+          "activityIntensity": "中等",
+          "camera": "全身时尚编辑镜头，人物完整入画",
+          "lighting": "柔和自然光，真实肤色与商品色彩",
+          "background": "简洁、不抢商品主体的真实环境",
+          "pose": "自然站姿，双手和双脚完整可见",
+          "expressionTone": "自然、克制且符合场景的微表情",
+          "posePolicy": "先保证全部真实商品、廓形和关键细节可见，再追求自然叙事感",
+          "coverageMode": "full_look",
+          "anchorPolicy": "soft_preference",
+          "negativeConstraints": [
+            "不增加人物",
+            "不增加未提供商品",
+            "不改变商品颜色、图案或 Logo",
+            "不改变穿着者身份和体型",
+            "不出现畸形肢体或文字水印"
+          ]
+        }
+      },
+      "composition": {
+        "coverageMode": "full_look",
+        "productFacts": [
+          {
+            "experienceType": "wearable",
+            "wearSlots": [
+              "top"
+            ],
+            "styleTags": [
+              "上衣",
+              "通勤",
+              "正装",
+              "男款",
+              "杰尼亚",
+              "奢品"
+            ],
+            "colors": [],
+            "materials": [
+              "棉",
+              "羊毛"
+            ],
+            "patterns": [],
+            "silhouettes": [],
+            "seasons": [],
+            "weather": [],
+            "fitPresentation": [],
+            "formality": 3,
+            "referenceQuality": "reference_ready"
+          },
+          {
+            "experienceType": "wearable",
+            "wearSlots": [
+              "bottom"
+            ],
+            "styleTags": [
+              "下装",
+              "城市休闲",
+              "通勤",
+              "男款"
+            ],
+            "colors": [],
+            "materials": [],
+            "patterns": [],
+            "silhouettes": [],
+            "seasons": [],
+            "weather": [],
+            "fitPresentation": [],
+            "formality": 3,
+            "referenceQuality": "reference_ready"
+          },
+          {
+            "experienceType": "wearable",
+            "wearSlots": [
+              "shoes"
+            ],
+            "styleTags": [
+              "鞋履",
+              "通勤",
+              "女款"
+            ],
+            "colors": [],
+            "materials": [],
+            "patterns": [],
+            "silhouettes": [],
+            "seasons": [],
+            "weather": [],
+            "fitPresentation": [],
+            "formality": 3,
+            "referenceQuality": "reference_ready"
+          }
+        ],
+        "renderPlan": [
+          {
+            "key": "front",
+            "label": "正面全身",
+            "referenceView": "front",
+            "camera": "正面全身，人物完整入画",
+            "pose": "近正面站姿，仅 0–10 度自然重心偏移，完整展示正面服装",
+            "environment": "中性编辑棚拍",
+            "background": "干净浅色背景，突出服装轮廓",
+            "lighting": "柔和均匀光",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "自然平视镜头，保持真实眼神",
+            "gesture": "双手自然垂放或轻放身体两侧，不遮挡领口、腰线、下装和鞋履",
+            "movement": "稳定静态定格"
+          },
+          {
+            "key": "three_quarter",
+            "label": "45°造型",
+            "referenceView": "front_45",
+            "camera": "45度全身时尚镜头",
+            "pose": "身体自然转向 45 度，肩线放松，展示侧面层次与廓形",
+            "environment": "清爽通勤",
+            "background": "简洁、不抢商品主体的真实环境",
+            "lighting": "柔和自然光，真实肤色与商品色彩",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "轻微侧目或看向画面留白，不摆拍凝视",
+            "gesture": "手臂自然留出服装轮廓，不触碰或遮挡主推商品",
+            "movement": "轻微转身的自然定格"
+          },
+          {
+            "key": "side",
+            "label": "侧面版型",
+            "referenceView": "side",
+            "camera": "清晰侧面全身镜头",
+            "pose": "清晰 90 度侧身，保持自然站立或极小步幅，展示衣长和轮廓",
+            "environment": "简洁室内空间",
+            "background": "低干扰中性背景",
+            "lighting": "自然柔光",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "自然远眺或侧前方视线",
+            "gesture": "双臂自然顺着身体线条，不遮挡侧面剪裁",
+            "movement": "稳定站姿，避免模糊"
+          },
+          {
+            "key": "environment",
+            "label": "场景效果",
+            "referenceView": "front_45",
+            "camera": "全身时尚编辑镜头，人物完整入画",
+            "pose": "自然站姿，双手和双脚完整可见",
+            "environment": "清爽通勤",
+            "background": "简洁、不抢商品主体的真实环境",
+            "lighting": "柔和自然光，真实肤色与商品色彩",
+            "expression": "平静自信的微表情，避免夸张笑容",
+            "gaze": "自然关注场景或短暂回望镜头",
+            "gesture": "与环境保持自然距离；不持有未提供道具，不新增配饰，不遮挡真实商品",
+            "movement": "从容自然的生活化定格"
+          }
+        ],
+        "stylingReport": {
+          "strategy": "designer_discovery",
+          "strategyLabel": "设计师发现",
+          "decisionSource": "deterministic_rules",
+          "totalScore": 66,
+          "confidence": "待补充",
+          "breakdown": {
+            "sceneFit": 78,
+            "personalFit": 52,
+            "coordination": 82,
+            "avatarFit": 58,
+            "catalogConfidence": 48
+          },
+          "reasons": [
+            "季节、体感天气与正式度共同贴合“清爽通勤”场景",
+            "用 棉、羊毛 形成一致且可辨的材质关系"
+          ],
+          "tradeoffs": [
+            "尚无可用 Avatar 身材摘要，本次未做个体尺码精排",
+            "部分商品设计事实来自保守推断，颜色、材质或版型仍需运营复核"
+          ]
+        }
+      },
+      "plannerDraft": {
+        "name": "设计师发现",
+        "productIds": null,
+        "rationale": ""
+      }
+    }
+  }
+]

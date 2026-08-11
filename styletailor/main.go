@@ -16,6 +16,7 @@ import (
 	"github.com/pocketbase/pocketbase/tools/hook"
 
 	"github.com/pocketbase/pocketbase/styletailor/pkg/bailian"
+	"github.com/pocketbase/pocketbase/styletailor/pkg/familyoutfit"
 	"github.com/pocketbase/pocketbase/styletailor/pkg/mcp"
 )
 
@@ -63,9 +64,25 @@ func main() {
 			mcpHandler := mcp.NewHandler(e.App, bailianClient)
 			mcpHandler.RegisterRoutes(e.Router)
 
+			// Register family outfit routes.
+			familyHandler := familyoutfit.NewWebHandler(e.App)
+			familyHandler.RegisterRoutes(e.Router)
+
 			return e.Next()
 		},
 		Priority: 998,
+	})
+
+	// Seed demo data for family outfit.
+	app.OnBootstrap().Bind(&hook.Handler[*core.BootstrapEvent]{
+		Func: func(e *core.BootstrapEvent) error {
+			if err := e.Next(); err != nil {
+				return err
+			}
+			familyoutfit.SeedDemoData(e.App)
+			return nil
+		},
+		Priority: 997,
 	})
 
 	// Static public files.

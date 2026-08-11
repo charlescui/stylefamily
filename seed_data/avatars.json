@@ -1,0 +1,25 @@
+[
+  {
+    "actor_id": "local-development",
+    "avatar_ref": "avatar_43ac8a1273a7ac7e9f52345a41b4f0d1",
+    "body_summary": null,
+    "consent_scope": null,
+    "created": "2026-08-07 07:26:11.555Z",
+    "display_name": "爸爸",
+    "expires_at": "",
+    "face_texture_url": "",
+    "glb_sha256": "",
+    "glb_url": "",
+    "id": "v2z49yi29glpoi9",
+    "reference_images": [
+      {
+        "url": "https://dianshi.example/front.png",
+        "view": "front"
+      }
+    ],
+    "status": "ready",
+    "updated": "2026-08-07 07:26:11.555Z",
+    "face_cleanup_url": "",
+    "face_cleanup_at": ""
+  }
+]

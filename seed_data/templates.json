@@ -1,0 +1,1564 @@
+[
+  {
+    "age_range": "all",
+    "created": "2026-07-14 12:15:18.077Z",
+    "design_language": "轻薄叠穿，低饱和的莫兰迪灰蓝与燕麦色；一件可脱卸的薄外套配衬衫，用材质而非厚度制造层次。",
+    "design_story": "初春的清晨还带着凉意，午后又会回暖。这套穿搭为通勤而生：温差里从容切换，进出写字楼都体面。",
+    "formality": 3,
+    "id": "g8ky67k38bsovak",
+    "name": "微风通勤",
+    "occasion": "商务通勤",
+    "priority": 1,
+    "required_slots": [
+      "outerwear",
+      "top",
+      "bottom",
+      "shoes"
+    ],
+    "season": "spring",
+    "slug": "spring-urban-commute",
+    "status": "draft",
+    "style_tags": [
+      "通勤",
+      "简约",
+      "叠穿",
+      "莫兰迪"
+    ],
+    "target_gender": "any",
+    "updated": "2026-08-05 03:48:04.571Z",
+    "design_spec": {
+      "anchorPolicy": "soft_preference"
+    },
+    "version": 0,
+    "member_role": "",
+    "curated_product_ids": null,
+    "curation_review": null,
+    "tv_materials": {
+      "backgroundFocalPoint": "center",
+      "backgroundImageUrl": "/design-assets/idle-hero-v2.png",
+      "backgroundTreatment": "editorial",
+      "heroEyebrow": "AI 设计师 · 默认整套",
+      "heroSummary": "初春的清晨还带着凉意，午后又会回暖。这套穿搭为通勤而生：温差里从容切换，进出写字楼都体面。",
+      "heroTitle": "试试「微风通勤」",
+      "productShelfLabel": "本方案商品 · 点击可单独试",
+      "qrCodeCaption": "我也试一下",
+      "themeCardSubtitle": "商务通勤",
+      "themeCardTitle": "微风通勤"
+    }
+  },
+  {
+    "age_range": "all",
+    "created": "2026-07-14 12:15:18.077Z",
+    "design_language": "机能与自然色，卡其、草木绿、透气面料；轻量防风外套搭配好走路的鞋。",
+    "design_story": "周末去郊野公园，鞋子要能走长路，外套要能挡一阵春雨。轻装上阵，把身体交给春天。",
+    "formality": 2,
+    "id": "9mffobg9cmcbifp",
+    "name": "踏青轻装",
+    "occasion": "户外踏青",
+    "priority": 2,
+    "required_slots": [
+      "outerwear",
+      "top",
+      "bottom",
+      "shoes"
+    ],
+    "season": "spring",
+    "slug": "spring-outing",
+    "status": "draft",
+    "style_tags": [
+      "户外",
+      "休闲",
+      "机能",
+      "透气"
+    ],
+    "target_gender": "any",
+    "updated": "2026-08-05 03:48:04.571Z",
+    "design_spec": {
+      "anchorPolicy": "soft_preference"
+    },
+    "version": 0,
+    "member_role": "",
+    "curated_product_ids": null,
+    "curation_review": null,
+    "tv_materials": {
+      "backgroundFocalPoint": "center",
+      "backgroundImageUrl": "/design-assets/idle-hero-v2.png",
+      "backgroundTreatment": "editorial",
+      "heroEyebrow": "AI 设计师 · 默认整套",
+      "heroSummary": "周末去郊野公园，鞋子要能走长路，外套要能挡一阵春雨。轻装上阵，把身体交给春天。",
+      "heroTitle": "试试「踏青轻装」",
+      "productShelfLabel": "本方案商品 · 点击可单独试",
+      "qrCodeCaption": "我也试一下",
+      "themeCardSubtitle": "户外踏青",
+      "themeCardTitle": "踏青轻装"
+    }
+  },
+  {
+    "age_range": "all",
+    "created": "2026-07-14 12:15:18.077Z",
+    "design_language": "柔和的粉樱与米白，一点腰线、一点飘逸；明亮但不张扬。",
+    "design_story": "午后咖啡与花市，穿得比平时明亮一点，是给自己的小心意，也是给这场约会的期待。",
+    "formality": 3,
+    "id": "r5d4pfgtk9egcu7",
+    "name": "春日心动",
+    "occasion": "轻约会",
+    "priority": 3,
+    "required_slots": [
+      "top",
+      "bottom",
+      "shoes",
+      "accessory"
+    ],
+    "season": "spring",
+    "slug": "spring-date",
+    "status": "draft",
+    "style_tags": [
+      "约会",
+      "柔美",
+      "明亮"
+    ],
+    "target_gender": "any",
+    "updated": "2026-08-05 03:48:04.571Z",
+    "design_spec": {
+      "anchorPolicy": "soft_preference"
+    },
+    "version": 0,
+    "member_role": "",
+    "curated_product_ids": null,
+    "curation_review": null,
+    "tv_materials": {
+      "backgroundFocalPoint": "center",
+      "backgroundImageUrl": "/design-assets/idle-hero-v2.png",
+      "backgroundTreatment": "editorial",
+      "heroEyebrow": "AI 设计师 · 默认整套",
+      "heroSummary": "午后咖啡与花市，穿得比平时明亮一点，是给自己的小心意，也是给这场约会的期待。",
+      "heroTitle": "试试「春日心动」",
+      "productShelfLabel": "本方案商品 · 点击可单独试",
+      "qrCodeCaption": "我也试一下",
+      "themeCardSubtitle": "轻约会",
+      "themeCardTitle": "春日心动"
+    }
+  },
+  {
+    "age_range": "all",
+    "created": "2026-07-14 12:15:18.077Z",
+    "design_language": "亚麻与棉，海盐白、天空蓝、椰褐；宽松版型与凉鞋，让风自由穿过。",
+    "design_story": "海边的风很大，阳光很烈。宽松、透气、好活动比什么都重要，度假就该松弛。",
+    "formality": 2,
+    "id": "iadkh7htwfqj08r",
+    "name": "海岸假日",
+    "occasion": "海岸度假",
+    "priority": 4,
+    "required_slots": [
+      "top",
+      "bottom",
+      "shoes",
+      "accessory"
+    ],
+    "season": "summer",
+    "slug": "summer-seaside",
+    "status": "draft",
+    "style_tags": [
+      "度假",
+      "清爽",
+      "亚麻"
+    ],
+    "target_gender": "any",
+    "updated": "2026-08-05 03:48:04.571Z",
+    "design_spec": {
+      "anchorPolicy": "soft_preference"
+    },
+    "version": 0,
+    "member_role": "",
+    "curated_product_ids": null,
+    "curation_review": null,
+    "tv_materials": {
+      "backgroundFocalPoint": "center",
+      "backgroundImageUrl": "/design-assets/idle-hero-v2.png",
+      "backgroundTreatment": "editorial",
+      "heroEyebrow": "AI 设计师 · 默认整套",
+      "heroSummary": "海边的风很大，阳光很烈。宽松、透气、好活动比什么都重要，度假就该松弛。",
+      "heroTitle": "试试「海岸假日」",
+      "productShelfLabel": "本方案商品 · 点击可单独试",
+      "qrCodeCaption": "我也试一下",
+      "themeCardSubtitle": "海岸度假",
+      "themeCardTitle": "海岸假日"
+    }
+  },
+  {
+    "age_range": "all",
+    "created": "2026-07-14 12:15:18.077Z",
+    "design_language": "透气短袖与直筒长裤，冷色调降温；凉感面料兼顾体面与解暑。",
+    "design_story": "三十几度的写字楼与街道之间来回，凉感面料是体面，也是这个夏天最实在的温柔。",
+    "formality": 3,
+    "id": "6n9u8ewc1sbvkn3",
+    "name": "都市消夏",
+    "occasion": "清爽通勤",
+    "priority": 5,
+    "required_slots": [
+      "top",
+      "bottom",
+      "shoes"
+    ],
+    "season": "summer",
+    "slug": "summer-city-cool",
+    "status": "draft",
+    "style_tags": [
+      "通勤",
+      "清爽",
+      "冷色"
+    ],
+    "target_gender": "any",
+    "updated": "2026-08-05 03:48:04.571Z",
+    "design_spec": {
+      "anchorPolicy": "soft_preference"
+    },
+    "version": 0,
+    "member_role": "",
+    "curated_product_ids": null,
+    "curation_review": null,
+    "tv_materials": {
+      "backgroundFocalPoint": "center",
+      "backgroundImageUrl": "/design-assets/idle-hero-v2.png",
+      "backgroundTreatment": "editorial",
+      "heroEyebrow": "AI 设计师 · 默认整套",
+      "heroSummary": "三十几度的写字楼与街道之间来回，凉感面料是体面，也是这个夏天最实在的温柔。",
+      "heroTitle": "试试「都市消夏」",
+      "productShelfLabel": "本方案商品 · 点击可单独试",
+      "qrCodeCaption": "我也试一下",
+      "themeCardSubtitle": "清爽通勤",
+      "themeCardTitle": "都市消夏"
+    }
+  },
+  {
+    "age_range": "all",
+    "created": "2026-07-14 12:15:18.078Z",
+    "design_language": "丝滑垂坠的面料，深夜蓝与香槟金；一件有光泽感的单品足以点亮夜色。",
+    "design_story": "夏天的晚宴不必厚重。当夜风带走白日的燥热，让一点光泽感替你说话。",
+    "formality": 4,
+    "id": "tw8hnda3q5wsae9",
+    "name": "夏夜微醺",
+    "occasion": "夏夜晚宴",
+    "priority": 6,
+    "required_slots": [
+      "dress",
+      "top",
+      "bottom",
+      "shoes",
+      "accessory"
+    ],
+    "season": "summer",
+    "slug": "summer-night-banquet",
+    "status": "draft",
+    "style_tags": [
+      "晚宴",
+      "轻礼",
+      "光泽"
+    ],
+    "target_gender": "any",
+    "updated": "2026-08-05 03:48:04.572Z",
+    "design_spec": {
+      "anchorPolicy": "soft_preference"
+    },
+    "version": 0,
+    "member_role": "",
+    "curated_product_ids": null,
+    "curation_review": null,
+    "tv_materials": {
+      "backgroundFocalPoint": "center",
+      "backgroundImageUrl": "/design-assets/idle-hero-v2.png",
+      "backgroundTreatment": "editorial",
+      "heroEyebrow": "AI 设计师 · 默认整套",
+      "heroSummary": "夏天的晚宴不必厚重。当夜风带走白日的燥热，让一点光泽感替你说话。",
+      "heroTitle": "试试「夏夜微醺」",
+      "productShelfLabel": "本方案商品 · 点击可单独试",
+      "qrCodeCaption": "我也试一下",
+      "themeCardSubtitle": "夏夜晚宴",
+      "themeCardTitle": "夏夜微醺"
+    }
+  },
+  {
+    "age_range": "all",
+    "created": "2026-07-14 12:15:18.078Z",
+    "design_language": "驼色、栗棕、藏青的三层叠穿；西装内搭针织，用材质的层次代替厚重。",
+    "design_story": "秋意渐浓，气温一天凉过一天。叠穿是秋天的语言，也是成熟的分寸感。",
+    "formality": 4,
+    "id": "l0iuwub8m995avb",
+    "name": "层次通勤",
+    "occasion": "商务层次",
+    "priority": 7,
+    "required_slots": [
+      "outerwear",
+      "top",
+      "bottom",
+      "shoes"
+    ],
+    "season": "autumn",
+    "slug": "autumn-layered-office",
+    "status": "draft",
+    "style_tags": [
+      "商务",
+      "叠穿",
+      "大地色"
+    ],
+    "target_gender": "any",
+    "updated": "2026-08-05 03:48:04.572Z",
+    "design_spec": {
+      "anchorPolicy": "soft_preference"
+    },
+    "version": 0,
+    "member_role": "",
+    "curated_product_ids": null,
+    "curation_review": null,
+    "tv_materials": {
+      "backgroundFocalPoint": "center",
+      "backgroundImageUrl": "/design-assets/idle-hero-v2.png",
+      "backgroundTreatment": "editorial",
+      "heroEyebrow": "AI 设计师 · 默认整套",
+      "heroSummary": "秋意渐浓，气温一天凉过一天。叠穿是秋天的语言，也是成熟的分寸感。",
+      "heroTitle": "试试「层次通勤」",
+      "productShelfLabel": "本方案商品 · 点击可单独试",
+      "qrCodeCaption": "我也试一下",
+      "themeCardSubtitle": "商务层次",
+      "themeCardTitle": "层次通勤"
+    }
+  },
+  {
+    "age_range": "all",
+    "created": "2026-07-14 12:15:18.078Z",
+    "design_language": "防风机能外套，橄榄绿与炭灰；鞋要抓地，外套要防风。",
+    "design_story": "秋高气爽最适合走路。从城市的街区一路走到近郊的山径，装备到位，脚步才轻。",
+    "formality": 2,
+    "id": "fa2idcfwrz4ithm",
+    "name": "城市徒步",
+    "occasion": "城市徒步",
+    "priority": 8,
+    "required_slots": [
+      "outerwear",
+      "top",
+      "bottom",
+      "shoes"
+    ],
+    "season": "autumn",
+    "slug": "autumn-trek",
+    "status": "draft",
+    "style_tags": [
+      "户外",
+      "机能",
+      "防风"
+    ],
+    "target_gender": "any",
+    "updated": "2026-08-05 03:48:04.572Z",
+    "design_spec": {
+      "anchorPolicy": "soft_preference"
+    },
+    "version": 0,
+    "member_role": "",
+    "curated_product_ids": null,
+    "curation_review": null,
+    "tv_materials": {
+      "backgroundFocalPoint": "center",
+      "backgroundImageUrl": "/design-assets/idle-hero-v2.png",
+      "backgroundTreatment": "editorial",
+      "heroEyebrow": "AI 设计师 · 默认整套",
+      "heroSummary": "秋高气爽最适合走路。从城市的街区一路走到近郊的山径，装备到位，脚步才轻。",
+      "heroTitle": "试试「城市徒步」",
+      "productShelfLabel": "本方案商品 · 点击可单独试",
+      "qrCodeCaption": "我也试一下",
+      "themeCardSubtitle": "城市徒步",
+      "themeCardTitle": "城市徒步"
+    }
+  },
+  {
+    "age_range": "all",
+    "created": "2026-07-14 12:15:18.078Z",
+    "design_language": "灯芯绒与羊毛，赭红、芥黄、卡其；温暖的暖色调像一杯手冲。",
+    "design_story": "美术馆与旧书店的下午，慢一点的节奏配慢一点的颜色，暖色是秋天给人的偏爱。",
+    "formality": 3,
+    "id": "lrey3yeccq089pl",
+    "name": "秋日雅集",
+    "occasion": "文艺休闲",
+    "priority": 9,
+    "required_slots": [
+      "top",
+      "bottom",
+      "shoes",
+      "accessory"
+    ],
+    "season": "autumn",
+    "slug": "autumn-literary",
+    "status": "draft",
+    "style_tags": [
+      "文艺",
+      "休闲",
+      "暖色"
+    ],
+    "target_gender": "any",
+    "updated": "2026-08-05 03:48:04.572Z",
+    "design_spec": {
+      "anchorPolicy": "soft_preference"
+    },
+    "version": 0,
+    "member_role": "",
+    "curated_product_ids": null,
+    "curation_review": null,
+    "tv_materials": {
+      "backgroundFocalPoint": "center",
+      "backgroundImageUrl": "/design-assets/idle-hero-v2.png",
+      "backgroundTreatment": "editorial",
+      "heroEyebrow": "AI 设计师 · 默认整套",
+      "heroSummary": "美术馆与旧书店的下午，慢一点的节奏配慢一点的颜色，暖色是秋天给人的偏爱。",
+      "heroTitle": "试试「秋日雅集」",
+      "productShelfLabel": "本方案商品 · 点击可单独试",
+      "qrCodeCaption": "我也试一下",
+      "themeCardSubtitle": "文艺休闲",
+      "themeCardTitle": "秋日雅集"
+    }
+  },
+  {
+    "age_range": "all",
+    "created": "2026-07-14 12:15:18.078Z",
+    "design_language": "挺括的羊毛大衣、高领针织，炭黑与雾灰；保暖不臃肿，线条利落。",
+    "design_story": "寒风里的通勤，一件挺括的大衣既挡风又立住气场，冬天也可以既暖又体面。",
+    "formality": 4,
+    "id": "ni9qjatpv269ieb",
+    "name": "暖意通勤",
+    "occasion": "商务保暖",
+    "priority": 10,
+    "required_slots": [
+      "outerwear",
+      "top",
+      "bottom",
+      "shoes"
+    ],
+    "season": "winter",
+    "slug": "winter-warm-office",
+    "status": "draft",
+    "style_tags": [
+      "商务",
+      "保暖",
+      "大衣"
+    ],
+    "target_gender": "any",
+    "updated": "2026-08-05 03:48:04.572Z",
+    "design_spec": {
+      "anchorPolicy": "soft_preference"
+    },
+    "version": 0,
+    "member_role": "",
+    "curated_product_ids": null,
+    "curation_review": null,
+    "tv_materials": {
+      "backgroundFocalPoint": "center",
+      "backgroundImageUrl": "/design-assets/idle-hero-v2.png",
+      "backgroundTreatment": "editorial",
+      "heroEyebrow": "AI 设计师 · 默认整套",
+      "heroSummary": "寒风里的通勤，一件挺括的大衣既挡风又立住气场，冬天也可以既暖又体面。",
+      "heroTitle": "试试「暖意通勤」",
+      "productShelfLabel": "本方案商品 · 点击可单独试",
+      "qrCodeCaption": "我也试一下",
+      "themeCardSubtitle": "商务保暖",
+      "themeCardTitle": "暖意通勤"
+    }
+  },
+  {
+    "age_range": "all",
+    "created": "2026-07-14 12:15:18.078Z",
+    "design_language": "羽绒与机能面料，亮色点缀；保暖、防泼水、能自由活动是第一位。",
+    "design_story": "滑雪场或雪后的公园，功能压倒一切：先暖起来、动起来，再谈好看。",
+    "formality": 2,
+    "id": "7e0oxdgwgfmexbi",
+    "name": "冰雪运动",
+    "occasion": "冰雪运动",
+    "priority": 11,
+    "required_slots": [
+      "outerwear",
+      "top",
+      "bottom",
+      "shoes"
+    ],
+    "season": "winter",
+    "slug": "winter-snow-sport",
+    "status": "draft",
+    "style_tags": [
+      "运动",
+      "户外",
+      "羽绒",
+      "保暖"
+    ],
+    "target_gender": "any",
+    "updated": "2026-08-05 03:48:04.572Z",
+    "design_spec": {
+      "anchorPolicy": "soft_preference"
+    },
+    "version": 0,
+    "member_role": "",
+    "curated_product_ids": null,
+    "curation_review": null,
+    "tv_materials": {
+      "backgroundFocalPoint": "center",
+      "backgroundImageUrl": "/design-assets/idle-hero-v2.png",
+      "backgroundTreatment": "editorial",
+      "heroEyebrow": "AI 设计师 · 默认整套",
+      "heroSummary": "滑雪场或雪后的公园，功能压倒一切：先暖起来、动起来，再谈好看。",
+      "heroTitle": "试试「冰雪运动」",
+      "productShelfLabel": "本方案商品 · 点击可单独试",
+      "qrCodeCaption": "我也试一下",
+      "themeCardSubtitle": "冰雪运动",
+      "themeCardTitle": "冰雪运动"
+    }
+  },
+  {
+    "age_range": "all",
+    "created": "2026-07-14 12:15:18.078Z",
+    "design_language": "丝绒与缎面，酒红、墨黑，金饰点缀；用厚重与光泽承接一场盛会。",
+    "design_story": "年末的晚宴总是郑重的。丝绒的分量与光泽，是对这一年、对这场相聚最体面的致意。",
+    "formality": 5,
+    "id": "f0s47kb7klbn2kn",
+    "name": "冬夜晚礼",
+    "occasion": "正式晚宴",
+    "priority": 12,
+    "required_slots": [
+      "dress",
+      "top",
+      "bottom",
+      "shoes",
+      "accessory"
+    ],
+    "season": "winter",
+    "slug": "winter-gala",
+    "status": "draft",
+    "style_tags": [
+      "晚宴",
+      "正式",
+      "丝绒",
+      "晚礼"
+    ],
+    "target_gender": "any",
+    "updated": "2026-08-05 03:48:04.572Z",
+    "design_spec": {
+      "anchorPolicy": "soft_preference"
+    },
+    "version": 0,
+    "member_role": "",
+    "curated_product_ids": null,
+    "curation_review": null,
+    "tv_materials": {
+      "backgroundFocalPoint": "center",
+      "backgroundImageUrl": "/design-assets/idle-hero-v2.png",
+      "backgroundTreatment": "editorial",
+      "heroEyebrow": "AI 设计师 · 默认整套",
+      "heroSummary": "年末的晚宴总是郑重的。丝绒的分量与光泽，是对这一年、对这场相聚最体面的致意。",
+      "heroTitle": "试试「冬夜晚礼」",
+      "productShelfLabel": "本方案商品 · 点击可单独试",
+      "qrCodeCaption": "我也试一下",
+      "themeCardSubtitle": "正式晚宴",
+      "themeCardTitle": "冬夜晚礼"
+    }
+  },
+  {
+    "age_range": "45-55岁成年人",
+    "created": "2026-07-14 14:13:59.407Z",
+    "design_language": "藏青长绒棉 Polo 作为稳重主色，沙色棉麻直筒裤提亮下半身，以深棕便士乐福鞋建立成熟质感；透明灰太阳镜只做小面积清凉点缀。",
+    "design_story": "给在周末家庭聚会中既要照顾家人、又希望保持体面的爸爸：材质透气，轮廓有余量，坐下用餐与湖边散步都从容。",
+    "formality": 3,
+    "id": "2ij4jy98xbzkmjp",
+    "name": "爸爸｜湖畔从容",
+    "occasion": "湖畔家庭午餐",
+    "priority": -40,
+    "required_slots": [
+      "top",
+      "bottom",
+      "shoes",
+      "accessory"
+    ],
+    "season": "summer",
+    "slug": "summer-family-dad-lakeside",
+    "status": "active",
+    "style_tags": [
+      "家庭出游",
+      "成熟休闲",
+      "清爽",
+      "棉麻",
+      "藏青",
+      "沙色"
+    ],
+    "target_gender": "male",
+    "updated": "2026-08-05 07:28:57.392Z",
+    "design_spec": {
+      "theme": "湖畔从容",
+      "palette": [
+        "藏青",
+        "沙米色",
+        "深棕",
+        "透明灰",
+        "低饱和中性色"
+      ],
+      "silhouette": [
+        "肩线自然的合身 Polo",
+        "不贴腿的直筒长裤",
+        "鞋裤比例利落",
+        "清晰肩线",
+        "自然比例",
+        "有呼吸感的层次"
+      ],
+      "materials": [
+        "长绒棉",
+        "棉麻",
+        "皮革",
+        "醋酸纤维",
+        "以真实商品材质为准"
+      ],
+      "environment": "有树荫和水面反光的湖畔餐厅露台",
+      "timeOfDay": "夏日午前至午后",
+      "weatherPolicy": [
+        "28-33℃",
+        "优先透气与遮阳",
+        "避免厚重叠穿",
+        "与本次天气相符"
+      ],
+      "activityIntensity": "低到中等",
+      "camera": "85mm 质感全身编辑镜头，保留成熟男性自然比例",
+      "lighting": "树荫下柔和侧光，控制水面与太阳镜镜片高光，保留眼神可读性",
+      "background": "湖畔露台与低干扰绿植，背景轻微虚化",
+      "pose": "一手自然靠近裤袋、另一手放松，身体微转，不持未提供道具，完整露出裤型与鞋",
+      "expressionTone": "从容温和、轻微自信的微笑",
+      "posePolicy": "成熟克制，先展示 Polo 领口、裤线、鞋与太阳镜，再加入湖畔叙事",
+      "coverageMode": "full_look",
+      "anchorPolicy": "locked_set",
+      "negativeConstraints": [
+        "不改变真实商品颜色、材质、Logo 和廓形",
+        "不新增未提供的服装、鞋履、包袋、首饰或道具",
+        "不改变人物身份、年龄感、体型或性别表达",
+        "不出现夸张表情、挑逗姿态、畸形肢体、乱码或水印",
+        "不增加人物",
+        "不增加未提供商品",
+        "不改变商品颜色、图案或 Logo",
+        "不改变穿着者身份和体型",
+        "不出现畸形肢体或文字水印"
+      ]
+    },
+    "version": 3,
+    "member_role": "dad",
+    "curated_product_ids": [
+      "886865327857",
+      "900744163369",
+      "1015868523245",
+      "1023422187510"
+    ],
+    "curation_review": {
+      "iteration": 3,
+      "status": "approved",
+      "score": 94,
+      "checks": [
+        "真实SKU完整且商品图可用",
+        "季节、成年年龄段、性别表达与场景一致",
+        "藏青、沙色、深棕和透明灰的层次通过复核"
+      ],
+      "improvements": [
+        "替换带完整模特的裤装候选",
+        "控制太阳镜镜片和水面高光，保留眼神可读性",
+        "删除未提供杯子等道具"
+      ],
+      "externalFindings": [
+        "配色、材质和成熟度适配获得外部评审认可",
+        "太阳镜反光可能遮挡眼神"
+      ],
+      "adjudications": [
+        "采纳镜片高光控制",
+        "拒绝手持杯子建议：杯子不是已提供商品且会破坏无道具约束"
+      ],
+      "limitations": [
+        "当前商品目录无童装，儿子与女儿均定义为成年子女，不用于儿童穿搭推荐",
+        "商品图用于视觉搭配参考，效果图不等同于精确尺码、合身或色彩保证"
+      ]
+    },
+    "tv_materials": {
+      "backgroundFocalPoint": "center",
+      "backgroundImageUrl": "/design-assets/family-dad-lakeside-16x9.jpg",
+      "backgroundTreatment": "gallery",
+      "backgroundVideoUrl": "",
+      "heroEyebrow": "AI 设计师 · 家庭角色方案",
+      "heroSummary": "给在周末家庭聚会中既要照顾家人、又希望保持体面的爸爸：材质透气，轮廓有余量，坐下用餐与湖边散步都从容。",
+      "heroTitle": "爸爸\n湖畔从容",
+      "productShelfLabel": "本方案真实商品 · 点击可单独试",
+      "qrCodeCaption": "扫码用自己的形象试穿",
+      "themeCardSubtitle": "爸爸方案 · 湖畔家庭午餐",
+      "themeCardTitle": "湖畔从容"
+    }
+  },
+  {
+    "age_range": "40-50岁成年人",
+    "created": "2026-07-14 14:13:59.407Z",
+    "design_language": "可可棕棉质 V 领连衣裙以宽松分层廓形保持呼吸感，深棕羊皮凉鞋延续同色系，草编提篮包上的浅蓝丝巾作为唯一冷色亮点。",
+    "design_story": "给喜欢舒适却不愿牺牲审美的妈妈：从美术馆室内冷气到户外花园，轻盈棉裙与平底凉鞋让步伐稳定，提篮包带来恰到好处的假日感。",
+    "formality": 3,
+    "id": "abzcadd6ksbvgfq",
+    "name": "妈妈｜可可雅意",
+    "occasion": "美术馆午后",
+    "priority": -39,
+    "required_slots": [
+      "dress",
+      "shoes",
+      "bag"
+    ],
+    "season": "summer",
+    "slug": "summer-family-mom-gallery",
+    "status": "active",
+    "style_tags": [
+      "知性",
+      "艺术",
+      "松弛",
+      "棉质",
+      "大地色",
+      "草编"
+    ],
+    "target_gender": "female",
+    "updated": "2026-08-05 07:28:57.393Z",
+    "design_spec": {
+      "theme": "可可雅意",
+      "palette": [
+        "可可棕",
+        "深棕",
+        "麦秆色",
+        "少量天空蓝",
+        "低饱和中性色"
+      ],
+      "silhouette": [
+        "V 领纵向延伸",
+        "上松下摆展开的分层裙型",
+        "脚背留白",
+        "清晰肩线",
+        "自然比例",
+        "有呼吸感的层次"
+      ],
+      "materials": [
+        "棉",
+        "羊皮革",
+        "草编",
+        "以真实商品材质为准"
+      ],
+      "environment": "现代美术馆连廊与安静花园",
+      "timeOfDay": "夏日下午",
+      "weatherPolicy": [
+        "室外高温与室内空调切换",
+        "透气优先",
+        "不额外增加厚重外搭",
+        "与本次天气相符"
+      ],
+      "activityIntensity": "中等步行",
+      "camera": "50mm 全身生活方式编辑镜头，保持自然身形",
+      "lighting": "连廊漫射天光，以中性白平衡真实呈现可可棕与浅蓝点色",
+      "background": "浅灰建筑与少量绿植，避免背景色吞没裙装",
+      "pose": "45度自然停步，一手轻提包并让包体靠近髋侧，另一手放松，不遮挡 V 领与裙身",
+      "expressionTone": "安静知性、眼神放松的浅笑",
+      "posePolicy": "避免刻意摆拍和过度年轻化，优先展示连衣裙层次、凉鞋与提篮包",
+      "coverageMode": "full_look",
+      "anchorPolicy": "locked_set",
+      "negativeConstraints": [
+        "不改变真实商品颜色、材质、Logo 和廓形",
+        "不新增未提供的服装、鞋履、包袋、首饰或道具",
+        "不改变人物身份、年龄感、体型或性别表达",
+        "不出现夸张表情、挑逗姿态、畸形肢体、乱码或水印",
+        "不增加人物",
+        "不增加未提供商品",
+        "不改变商品颜色、图案或 Logo",
+        "不改变穿着者身份和体型",
+        "不出现畸形肢体或文字水印"
+      ]
+    },
+    "version": 3,
+    "member_role": "mom",
+    "curated_product_ids": [
+      "1028783832221",
+      "1048640780821",
+      "1048988530602"
+    ],
+    "curation_review": {
+      "iteration": 3,
+      "status": "approved",
+      "score": 96,
+      "checks": [
+        "真实SKU完整且商品图可用",
+        "V领、平底凉鞋与草编包适合美术馆步行场景",
+        "可可棕与浅蓝点色通过中性白平衡复核"
+      ],
+      "improvements": [
+        "删除与包袋自带丝巾重复的额外方巾",
+        "采用中性白平衡",
+        "将包体约束在髋侧且不遮挡裙身"
+      ],
+      "externalFindings": [
+        "暖光可能令可可棕偏红",
+        "包体位置需要控制"
+      ],
+      "adjudications": [
+        "采纳中性白平衡与髋侧提包位置",
+        "不按固定身高改商品，身体差异由实时Avatar摘要指导姿态"
+      ],
+      "limitations": [
+        "当前商品目录无童装，儿子与女儿均定义为成年子女，不用于儿童穿搭推荐",
+        "商品图用于视觉搭配参考，效果图不等同于精确尺码、合身或色彩保证"
+      ]
+    },
+    "tv_materials": {
+      "backgroundFocalPoint": "center",
+      "backgroundImageUrl": "/design-assets/family-mom-gallery-16x9.jpg",
+      "backgroundTreatment": "gallery",
+      "backgroundVideoUrl": "",
+      "heroEyebrow": "AI 设计师 · 家庭角色方案",
+      "heroSummary": "给喜欢舒适却不愿牺牲审美的妈妈：从美术馆室内冷气到户外花园，轻盈棉裙与平底凉鞋让步伐稳定，提篮包带来恰到好处的假日感。",
+      "heroTitle": "妈妈\n可可雅意",
+      "productShelfLabel": "本方案真实商品 · 点击可单独试",
+      "qrCodeCaption": "扫码用自己的形象试穿",
+      "themeCardSubtitle": "妈妈方案 · 美术馆午后",
+      "themeCardTitle": "可可雅意"
+    }
+  },
+  {
+    "age_range": "20-28岁成年男性",
+    "created": "2026-07-14 14:13:59.407Z",
+    "design_language": "灰蓝棉质短袖上衣与沙米色亚麻长裤建立清楚的冷暖层次，黑白轻量板鞋压住重心，中性米黑斜挎包补足城市功能感。",
+    "design_story": "给成年儿子的周末 Citywalk：灰蓝上衣在强光下比全浅色更有轮廓，亚麻长裤保持通风，轻量鞋适合长时间步行；黑色鞋包线条让造型利落而不过度运动化。",
+    "formality": 2,
+    "id": "sifaam2ii5gragv",
+    "name": "儿子｜轻量新章",
+    "occasion": "城市周末漫步",
+    "priority": -38,
+    "required_slots": [
+      "top",
+      "bottom",
+      "shoes",
+      "bag"
+    ],
+    "season": "summer",
+    "slug": "summer-family-son-citywalk",
+    "status": "active",
+    "style_tags": [
+      "青年",
+      "Citywalk",
+      "轻量",
+      "灰蓝",
+      "亚麻",
+      "运动休闲"
+    ],
+    "target_gender": "male",
+    "updated": "2026-08-05 07:28:57.393Z",
+    "design_spec": {
+      "theme": "轻量新章",
+      "palette": [
+        "灰蓝",
+        "沙米色",
+        "黑色线条",
+        "少量橡胶底暖橙",
+        "低饱和中性色"
+      ],
+      "silhouette": [
+        "自然肩线短袖上衣",
+        "中腰直筒亚麻裤",
+        "轻量鞋底",
+        "贴身小斜挎包",
+        "清晰肩线",
+        "自然比例",
+        "有呼吸感的层次"
+      ],
+      "materials": [
+        "棉质针织",
+        "亚麻",
+        "网布与橡胶",
+        "轻量尼龙",
+        "以真实商品材质为准"
+      ],
+      "environment": "无招牌、无人群、有遮阴和书店橱窗的现代建筑连廊",
+      "timeOfDay": "夏日上午10点前或下午4点后",
+      "weatherPolicy": [
+        "30-35℃",
+        "凉感与排汗优先",
+        "长时间步行需轻量鞋履",
+        "与本次天气相符"
+      ],
+      "activityIntensity": "中到高",
+      "camera": "35mm 动态全身街拍镜头，保持商品清晰无运动模糊",
+      "lighting": "骑楼阴影与柔和反射光，保护面料纹理",
+      "background": "干净现代连廊与书店橱窗，不出现招牌、可读文字或第二人物",
+      "pose": "自然迈步后短暂停下，包底位于髋骨上方，手臂留出衣身和腰线，双脚完整露出",
+      "expressionTone": "轻松专注、带一点明朗活力",
+      "posePolicy": "动作可以年轻但不夸张，优先呈现 Polo 领口、裤腿比例、鞋和斜挎包",
+      "coverageMode": "full_look",
+      "anchorPolicy": "locked_set",
+      "negativeConstraints": [
+        "不改变真实商品颜色、材质、Logo 和廓形",
+        "不新增未提供的服装、鞋履、包袋、首饰或道具",
+        "不改变人物身份、年龄感、体型或性别表达",
+        "不出现夸张表情、挑逗姿态、畸形肢体、乱码或水印",
+        "不增加人物",
+        "不增加未提供商品",
+        "不改变商品颜色、图案或 Logo",
+        "不改变穿着者身份和体型",
+        "不出现畸形肢体或文字水印"
+      ]
+    },
+    "version": 5,
+    "member_role": "son",
+    "curated_product_ids": [
+      "1002185673766",
+      "1013844471728",
+      "1021461037741",
+      "1047975507911"
+    ],
+    "curation_review": {
+      "iteration": 5,
+      "status": "approved",
+      "score": 96,
+      "checks": [
+        "四个真实SKU均存在、可试穿且有参考图",
+        "最终上衣商品图为纯白底且外观无可读文字",
+        "灰蓝与沙米色的冷暖层次适合成年男性夏季城市穿搭",
+        "最终提示词禁止招牌、背景人物、错误Logo和可读文字"
+      ],
+      "improvements": [
+        "替换带完整模特的上衣参考图",
+        "连续拒绝两张含错误胸口文字和背景人物的效果图",
+        "改用SKU 1002185673766并同步全部设计字段"
+      ],
+      "externalFindings": [
+        "文本评审提出浅色面料过曝与包袋腰线风险",
+        "图像审查确认错误文字和背景人物无法通过局部编辑稳定修复"
+      ],
+      "adjudications": [
+        "拒绝继续修补不合格资产，改用更干净的真实SKU参考重新生成",
+        "失败效果图不进入电视展示、商品推荐或购买入口"
+      ],
+      "limitations": [
+        "当前商品目录无童装，儿子定义为20-28岁成年男性，不用于儿童穿搭推荐",
+        "概念效果图仍需人工和视觉模型质量门复核，不等同于精确商品实拍或合身保证"
+      ]
+    },
+    "tv_materials": {
+      "backgroundFocalPoint": "center",
+      "backgroundImageUrl": "/design-assets/family-son-citywalk-16x9.jpg",
+      "backgroundTreatment": "gallery",
+      "backgroundVideoUrl": "",
+      "heroEyebrow": "AI 设计师 · 家庭角色方案",
+      "heroSummary": "给成年儿子的周末 Citywalk：灰蓝上衣在强光下比全浅色更有轮廓，亚麻长裤保持通风，轻量鞋适合长时间步行；黑色鞋包线条让造型利落而不过度运动化。",
+      "heroTitle": "儿子\n轻量新章",
+      "productShelfLabel": "本方案真实商品 · 点击可单独试",
+      "qrCodeCaption": "扫码用自己的形象试穿",
+      "themeCardSubtitle": "儿子方案 · 城市周末漫步",
+      "themeCardTitle": "轻量新章"
+    }
+  },
+  {
+    "age_range": "18-25岁成年女性",
+    "created": "2026-07-14 14:13:59.408Z",
+    "design_language": "奶油白小花边百褶短裙作为轻盈主体，柔粉缎面芭蕾鞋呼应花展气氛，麦秆色迷你斜挎包以棕色皮革边收住甜度。",
+    "design_story": "给成年女儿的夏日花展和咖啡约会：甜美元素集中在领口、百褶和鞋色，包袋用天然材质把造型拉回日常，保留年轻感但不幼态化。",
+    "formality": 3,
+    "id": "uavf4nu5hdqeiy7",
+    "name": "女儿｜奶油花信",
+    "occasion": "夏日花展与咖啡",
+    "priority": -37,
+    "required_slots": [
+      "dress",
+      "shoes",
+      "bag"
+    ],
+    "season": "summer",
+    "slug": "summer-family-daughter-flower",
+    "status": "active",
+    "style_tags": [
+      "青年",
+      "法式",
+      "清甜",
+      "花展",
+      "奶油白",
+      "柔粉"
+    ],
+    "target_gender": "female",
+    "updated": "2026-08-05 07:28:57.393Z",
+    "design_spec": {
+      "theme": "奶油花信",
+      "palette": [
+        "奶油白",
+        "柔粉",
+        "麦秆色",
+        "焦糖棕",
+        "低饱和中性色"
+      ],
+      "silhouette": [
+        "短袖翻领上身",
+        "腰线自然不过度收紧",
+        "百褶短裙摆",
+        "轻盈圆头平底鞋",
+        "清晰肩线",
+        "自然比例",
+        "有呼吸感的层次"
+      ],
+      "materials": [
+        "轻薄织物",
+        "仿缎面",
+        "草编与皮革",
+        "以真实商品材质为准"
+      ],
+      "environment": "自然采光的室内花展与临窗咖啡区",
+      "timeOfDay": "夏日午后",
+      "weatherPolicy": [
+        "室内外短距离切换",
+        "轻薄透气",
+        "避免暴晒与高强度活动",
+        "与本次天气相符"
+      ],
+      "activityIntensity": "低到中等",
+      "camera": "50mm 清透全身时尚镜头，保持成年女性自然比例",
+      "lighting": "柔和窗光，保护白裙高光，以轻微地面阴影分离柔粉鞋与肤色",
+      "background": "低饱和花艺和浅色墙面，留出人物轮廓",
+      "pose": "成年女性自然站立或小步移动，一手轻触包带，不蹲下、不触碰花艺，双腿与鞋完整可见",
+      "expressionTone": "明朗松弛的浅笑，不做幼态或夸张表情",
+      "posePolicy": "年轻但成年人化，优先展示领口、百褶裙摆、粉色鞋与草编包",
+      "coverageMode": "full_look",
+      "anchorPolicy": "locked_set",
+      "negativeConstraints": [
+        "不改变真实商品颜色、材质、Logo 和廓形",
+        "不新增未提供的服装、鞋履、包袋、首饰或道具",
+        "不改变人物身份、年龄感、体型或性别表达",
+        "不出现夸张表情、挑逗姿态、畸形肢体、乱码或水印",
+        "不增加人物",
+        "不增加未提供商品",
+        "不改变商品颜色、图案或 Logo",
+        "不改变穿着者身份和体型",
+        "不出现畸形肢体或文字水印"
+      ]
+    },
+    "version": 3,
+    "member_role": "daughter",
+    "curated_product_ids": [
+      "922784438778",
+      "1061765369006",
+      "1049643385208"
+    ],
+    "curation_review": {
+      "iteration": 3,
+      "status": "approved",
+      "score": 94,
+      "checks": [
+        "真实SKU完整且商品图可用",
+        "奶油白、柔粉与草编材质获得外部评审认可",
+        "平底鞋和成年女性姿态适合花展场景"
+      ],
+      "improvements": [
+        "用地面阴影分离鞋与肤色",
+        "明确不蹲下、不触碰花艺、不新增船袜"
+      ],
+      "externalFindings": [
+        "柔粉鞋接近肤色时足部存在感可能偏弱"
+      ],
+      "adjudications": [
+        "采纳用地面阴影分离鞋与肤色",
+        "拒绝蹲姿触花和新增船袜：会遮挡商品或添加目录外单品"
+      ],
+      "limitations": [
+        "当前商品目录无童装，儿子与女儿均定义为成年子女，不用于儿童穿搭推荐",
+        "商品图用于视觉搭配参考，效果图不等同于精确尺码、合身或色彩保证"
+      ]
+    },
+    "tv_materials": {
+      "backgroundFocalPoint": "center",
+      "backgroundImageUrl": "/design-assets/family-daughter-flower-16x9.jpg",
+      "backgroundTreatment": "gallery",
+      "backgroundVideoUrl": "",
+      "heroEyebrow": "AI 设计师 · 家庭角色方案",
+      "heroSummary": "给成年女儿的夏日花展和咖啡约会：甜美元素集中在领口、百褶和鞋色，包袋用天然材质把造型拉回日常，保留年轻感但不幼态化。",
+      "heroTitle": "女儿\n奶油花信",
+      "productShelfLabel": "本方案真实商品 · 点击可单独试",
+      "qrCodeCaption": "扫码用自己的形象试穿",
+      "themeCardSubtitle": "女儿方案 · 夏日花展与咖啡",
+      "themeCardTitle": "奶油花信"
+    }
+  },
+  {
+    "age_range": "25-45岁成年人",
+    "created": "2026-08-05 02:33:13.647Z",
+    "design_language": "翻领 Polo 保持正式度的同时透气不闷，莱赛尔直筒裤让坐姿与步态都利落，便士乐福鞋统一商务休闲语境。",
+    "design_story": "给地铁与写字楼之间往返的城市人：颜色克制、线条干净，从晨会到午间会面都不失体面。",
+    "formality": 4,
+    "id": "qaasc2na33cxagh",
+    "name": "利落通勤｜午间城市",
+    "occasion": "都市通勤",
+    "priority": -10,
+    "required_slots": [
+      "top",
+      "bottom",
+      "shoes"
+    ],
+    "season": "summer",
+    "slug": "commute-midday-city",
+    "status": "active",
+    "style_tags": [
+      "通勤",
+      "商务休闲",
+      "利落",
+      "Polo",
+      "莱赛尔",
+      "乐福鞋"
+    ],
+    "target_gender": "male",
+    "updated": "2026-08-05 03:48:04.573Z",
+    "design_spec": {
+      "activityIntensity": "中",
+      "anchorPolicy": "soft_preference",
+      "background": "模糊的城市人行道与玻璃幕墙",
+      "camera": "85mm 全身编辑镜头，保留自然比例",
+      "coverageMode": "full_look",
+      "environment": "城市街道与写字楼大堂",
+      "expressionTone": "平和自信",
+      "lighting": "顺光保持面部可读，避免楼宇反射杂光",
+      "materials": [
+        "棉质Polo",
+        "莱赛尔",
+        "皮革"
+      ],
+      "negativeConstraints": [
+        "不改变真实商品颜色、材质、Logo 和廓形",
+        "不新增未提供的服装、鞋履、包袋、首饰或道具",
+        "不改变人物身份、年龄感、体型或性别表达",
+        "不出现夸张表情、挑逗姿态、畸形肢体、乱码或水印"
+      ],
+      "palette": [
+        "藏蓝",
+        "沙米色",
+        "棕色"
+      ],
+      "pose": "自然站立，一手持公文包或手机，完整露出裤型与鞋",
+      "posePolicy": "克制端正，先展示 Polo 领口、裤线与乐福鞋，再加入通勤叙事",
+      "silhouette": [
+        "肩线自然的合身 Polo",
+        "不贴腿的直筒长裤",
+        "鞋裤比例利落"
+      ],
+      "theme": "利落通勤",
+      "timeOfDay": "工作日午间",
+      "weatherPolicy": [
+        "26-32℃",
+        "优先透气",
+        "避免厚重叠穿"
+      ]
+    },
+    "version": 1,
+    "member_role": "",
+    "curated_product_ids": [
+      "1015189586929",
+      "940881802321",
+      "1015868523245"
+    ],
+    "curation_review": {
+      "notes": "策展商品来自本地真实目录快照；普通主题使用 soft_preference，可被更贴合用户的选择替换。",
+      "reviewedAt": "2026-08-01",
+      "reviewedBy": "catalog-ops",
+      "verdict": "approved"
+    },
+    "tv_materials": {
+      "backgroundFocalPoint": "center",
+      "backgroundImageUrl": "/design-assets/idle-hero-v2.png",
+      "backgroundTreatment": "editorial",
+      "heroEyebrow": "AI 设计师 · 默认整套",
+      "heroSummary": "给地铁与写字楼之间往返的城市人：颜色克制、线条干净，从晨会到午间会面都不失体面。",
+      "heroTitle": "试试「利落通勤｜午间城市」",
+      "productShelfLabel": "本方案商品 · 点击可单独试",
+      "qrCodeCaption": "我也试一下",
+      "themeCardSubtitle": "都市通勤",
+      "themeCardTitle": "利落通勤｜午间城市"
+    }
+  },
+  {
+    "age_range": "25-40岁成年人",
+    "created": "2026-08-05 02:33:13.648Z",
+    "design_language": "长款针织连衣裙勾勒柔和轮廓，芭蕾平底鞋让夜路也自在，翻盖单肩包收束整体精致感。",
+    "design_story": "从傍晚日落到餐后散步：轻盈、亲和、不刻意，让光线和表情成为主角。",
+    "formality": 4,
+    "id": "hd6bpwqw1bwwnl5",
+    "name": "约会｜夏夜柔光",
+    "occasion": "夏日约会晚餐",
+    "priority": -15,
+    "required_slots": [
+      "dress",
+      "shoes",
+      "bag"
+    ],
+    "season": "summer",
+    "slug": "date-summer-dinner",
+    "status": "active",
+    "style_tags": [
+      "约会",
+      "连衣裙",
+      "柔和",
+      "针织",
+      "芭蕾平底鞋"
+    ],
+    "target_gender": "female",
+    "updated": "2026-08-05 03:48:04.573Z",
+    "design_spec": {
+      "activityIntensity": "低到中",
+      "anchorPolicy": "soft_preference",
+      "background": "虚化的餐厅露台与街灯",
+      "camera": "85mm 全身编辑镜头，保留自然比例",
+      "coverageMode": "full_look",
+      "environment": "露天餐厅与傍晚街道",
+      "expressionTone": "放松微笑",
+      "lighting": "暖色街灯与环境光，避免强逆光",
+      "materials": [
+        "针织",
+        "仿缎面",
+        "牛皮革"
+      ],
+      "negativeConstraints": [
+        "不改变真实商品颜色、材质、Logo 和廓形",
+        "不新增未提供的服装、鞋履、包袋、首饰或道具",
+        "不改变人物身份、年龄感、体型或性别表达",
+        "不出现夸张表情、挑逗姿态、畸形肢体、乱码或水印"
+      ],
+      "palette": [
+        "米白",
+        "浅卡其",
+        "棕色"
+      ],
+      "pose": "自然行走或微侧身，完整露出裙摆与鞋",
+      "posePolicy": "自然亲和，先展示连衣裙廓形与鞋，再加入约会叙事",
+      "silhouette": [
+        "合身长款连衣裙",
+        "低跟芭蕾平底鞋",
+        "斜挎单肩包"
+      ],
+      "theme": "夏夜柔光",
+      "timeOfDay": "黄昏至夜间",
+      "weatherPolicy": [
+        "24-30℃",
+        "晚风微凉可搭薄披肩",
+        "避免厚重面料"
+      ]
+    },
+    "version": 1,
+    "member_role": "",
+    "curated_product_ids": [
+      "944616759291",
+      "1056600187554",
+      "981750481928"
+    ],
+    "curation_review": {
+      "notes": "策展商品来自本地真实目录快照；普通主题使用 soft_preference，可被更贴合用户的选择替换。",
+      "reviewedAt": "2026-08-01",
+      "reviewedBy": "catalog-ops",
+      "verdict": "approved"
+    },
+    "tv_materials": {
+      "backgroundFocalPoint": "center",
+      "backgroundImageUrl": "/design-assets/idle-hero-v2.png",
+      "backgroundTreatment": "editorial",
+      "heroEyebrow": "AI 设计师 · 默认整套",
+      "heroSummary": "从傍晚日落到餐后散步：轻盈、亲和、不刻意，让光线和表情成为主角。",
+      "heroTitle": "试试「约会｜夏夜柔光」",
+      "productShelfLabel": "本方案商品 · 点击可单独试",
+      "qrCodeCaption": "我也试一下",
+      "themeCardSubtitle": "夏日约会晚餐",
+      "themeCardTitle": "约会｜夏夜柔光"
+    }
+  },
+  {
+    "age_range": "20-40岁成年人",
+    "created": "2026-08-05 02:33:13.648Z",
+    "design_language": "速干防晒 T 恤应对日晒，亚麻休闲裤兼顾透气与利落，缓震跑步鞋覆盖通勤加健身的双重节奏。",
+    "design_story": "给周末想走更远的人：从晨跑后的早午餐到傍晚的篮球场，一套衣服过渡不违和。",
+    "formality": 1,
+    "id": "7atnl2g3xpr6cgh",
+    "name": "运动｜轻装出行",
+    "occasion": "城市运动出行",
+    "priority": -20,
+    "required_slots": [
+      "top",
+      "bottom",
+      "shoes"
+    ],
+    "season": "summer",
+    "slug": "sport-urban-outing",
+    "status": "active",
+    "style_tags": [
+      "运动",
+      "轻量",
+      "速干",
+      "防晒",
+      "亚麻"
+    ],
+    "target_gender": "male",
+    "updated": "2026-08-05 03:48:04.573Z",
+    "design_spec": {
+      "activityIntensity": "中到高",
+      "anchorPolicy": "soft_preference",
+      "background": "虚化的公园绿植与步道",
+      "camera": "85mm 全身编辑镜头，保留自然比例",
+      "coverageMode": "full_look",
+      "environment": "城市公园与户外广场",
+      "expressionTone": "自然有活力",
+      "lighting": "自然日光，避免过曝",
+      "materials": [
+        "速干聚酯",
+        "亚麻混纺",
+        "缓震泡棉"
+      ],
+      "negativeConstraints": [
+        "不改变真实商品颜色、材质、Logo 和廓形",
+        "不新增未提供的服装、鞋履、包袋、首饰或道具",
+        "不改变人物身份、年龄感、体型或性别表达",
+        "不出现夸张表情、挑逗姿态、畸形肢体、乱码或水印"
+      ],
+      "palette": [
+        "浅灰绿",
+        "沙色",
+        "白色"
+      ],
+      "pose": "轻松站姿或小步行走，完整露出裤型与鞋",
+      "posePolicy": "自然舒展，先展示速干T恤与鞋，再加入出行叙事",
+      "silhouette": [
+        "合身速干T恤",
+        "直筒亚麻长裤",
+        "低帮缓震跑鞋"
+      ],
+      "theme": "轻装出行",
+      "timeOfDay": "白天",
+      "weatherPolicy": [
+        "28-34℃",
+        "优先速干与防晒",
+        "避免厚重面料"
+      ]
+    },
+    "version": 1,
+    "member_role": "",
+    "curated_product_ids": [
+      "1038170923098",
+      "1013844471728",
+      "1016189206411"
+    ],
+    "curation_review": {
+      "notes": "策展商品来自本地真实目录快照；普通主题使用 soft_preference，可被更贴合用户的选择替换。",
+      "reviewedAt": "2026-08-01",
+      "reviewedBy": "catalog-ops",
+      "verdict": "approved"
+    },
+    "tv_materials": {
+      "backgroundFocalPoint": "center",
+      "backgroundImageUrl": "/design-assets/idle-hero-v2.png",
+      "backgroundTreatment": "editorial",
+      "heroEyebrow": "AI 设计师 · 默认整套",
+      "heroSummary": "给周末想走更远的人：从晨跑后的早午餐到傍晚的篮球场，一套衣服过渡不违和。",
+      "heroTitle": "试试「运动｜轻装出行」",
+      "productShelfLabel": "本方案商品 · 点击可单独试",
+      "qrCodeCaption": "我也试一下",
+      "themeCardSubtitle": "城市运动出行",
+      "themeCardTitle": "运动｜轻装出行"
+    }
+  },
+  {
+    "age_range": "25-40岁成年人",
+    "created": "2026-08-05 02:33:13.648Z",
+    "design_language": "印花针织连衣裙作为节日主色，真丝方巾以小面积点睛，芭蕾平底鞋保证整晚走动自在。",
+    "design_story": "给家庭与好友的节日聚会：有记忆点但不过度用力，转场之间依然得体。",
+    "formality": 4,
+    "id": "ptn6gub8p3p9r0v",
+    "name": "聚会｜节日时刻",
+    "occasion": "节日聚会",
+    "priority": -25,
+    "required_slots": [
+      "dress",
+      "shoes",
+      "accessory"
+    ],
+    "season": "summer",
+    "slug": "festival-gathering",
+    "status": "active",
+    "style_tags": [
+      "节日",
+      "连衣裙",
+      "印花",
+      "真丝",
+      "聚会"
+    ],
+    "target_gender": "female",
+    "updated": "2026-08-05 03:48:04.573Z",
+    "design_spec": {
+      "activityIntensity": "低到中",
+      "anchorPolicy": "soft_preference",
+      "background": "虚化的节日灯光与餐桌",
+      "camera": "85mm 全身编辑镜头，保留自然比例",
+      "coverageMode": "full_look",
+      "environment": "家中或餐厅的节日聚会",
+      "expressionTone": "明亮愉悦",
+      "lighting": "暖色室内光，保留眼神可读性",
+      "materials": [
+        "针织",
+        "真丝",
+        "仿缎面"
+      ],
+      "negativeConstraints": [
+        "不改变真实商品颜色、材质、Logo 和廓形",
+        "不新增未提供的服装、鞋履、包袋、首饰或道具",
+        "不改变人物身份、年龄感、体型或性别表达",
+        "不出现夸张表情、挑逗姿态、畸形肢体、乱码或水印"
+      ],
+      "palette": [
+        "印花多色",
+        "米白",
+        "棕色"
+      ],
+      "pose": "自然微笑站立或举杯，完整露出裙摆与鞋",
+      "posePolicy": "自然亲和，先展示连衣裙印花与方巾，再加入节日叙事",
+      "silhouette": [
+        "长款针织连衣裙",
+        "低跟芭蕾平底鞋",
+        "小面积方巾点缀"
+      ],
+      "theme": "节日时刻",
+      "timeOfDay": "傍晚至夜间",
+      "weatherPolicy": [
+        "24-30℃",
+        "室内外温差小",
+        "避免厚重叠穿"
+      ]
+    },
+    "version": 1,
+    "member_role": "",
+    "curated_product_ids": [
+      "1049730055679",
+      "1056600187554",
+      "1026400063746"
+    ],
+    "curation_review": {
+      "notes": "策展商品来自本地真实目录快照；普通主题使用 soft_preference，可被更贴合用户的选择替换。",
+      "reviewedAt": "2026-08-01",
+      "reviewedBy": "catalog-ops",
+      "verdict": "approved"
+    },
+    "tv_materials": {
+      "backgroundFocalPoint": "center",
+      "backgroundImageUrl": "/design-assets/idle-hero-v2.png",
+      "backgroundTreatment": "editorial",
+      "heroEyebrow": "AI 设计师 · 默认整套",
+      "heroSummary": "给家庭与好友的节日聚会：有记忆点但不过度用力，转场之间依然得体。",
+      "heroTitle": "试试「聚会｜节日时刻」",
+      "productShelfLabel": "本方案商品 · 点击可单独试",
+      "qrCodeCaption": "我也试一下",
+      "themeCardSubtitle": "节日聚会",
+      "themeCardTitle": "聚会｜节日时刻"
+    }
+  },
+  {
+    "age_range": "adult",
+    "created": "2026-08-05 08:32:13.120Z",
+    "design_language": "低饱和米白与雾蓝的慵懒自在，亚麻材质透气轻盈，整体呈现黄昏海边的休闲松弛感",
+    "design_story": "一家人在黄昏的海边漫步，海风轻柔，随后在露天餐厅悠闲享用晚餐。米白色亚麻夹克如落日余晖映照，海军蓝休闲鞋似海浪轻拍，搭配出清爽低调的休闲绅士气质。",
+    "formality": 2,
+    "id": "xa26tyjxyy0w8o2",
+    "name": "夏夜清风",
+    "occasion": "黄昏海边散步后露天餐厅休闲晚餐",
+    "priority": 10,
+    "required_slots": [
+      "shoes",
+      "top"
+    ],
+    "season": "summer",
+    "slug": "ai-summer-night-breeze",
+    "status": "active",
+    "style_tags": [
+      "城市休闲",
+      "杰尼亚",
+      "奢品",
+      "轻盈",
+      "海滨",
+      "低饱和",
+      "休闲"
+    ],
+    "target_gender": "any",
+    "updated": "2026-08-06 15:47:45.102Z",
+    "design_spec": {
+      "theme": "夏夜清风",
+      "palette": [
+        "米白色",
+        "海军蓝",
+        "低饱和中性色"
+      ],
+      "silhouette": [
+        "宽松飞行员夹克",
+        "休闲鞋",
+        "自然肩线",
+        "松弛比例",
+        "有呼吸感的层次",
+        "飞行员夹克",
+        "清晰肩线",
+        "自然比例"
+      ],
+      "materials": [
+        "亚麻",
+        "（鞋子材料未明确）",
+        "以真实商品材质为准"
+      ],
+      "environment": "黄昏海边散步后露天餐厅休闲晚餐",
+      "timeOfDay": "黄昏",
+      "weatherPolicy": [
+        "温暖",
+        "微风",
+        "与本次天气相符"
+      ],
+      "activityIntensity": "低",
+      "camera": "全身",
+      "lighting": "黄昏暖光",
+      "background": "海景与落日余晖",
+      "pose": "自然站立，双手插兜，微侧身，神态放松",
+      "expressionTone": "慵懒微笑",
+      "posePolicy": "自在松弛",
+      "coverageMode": "full_look",
+      "anchorPolicy": "soft_preference",
+      "negativeConstraints": [
+        "不要过度正式",
+        "不要暗沉色调",
+        "不增加人物",
+        "不增加未提供商品",
+        "不改变商品颜色、图案或 Logo",
+        "不改变穿着者身份和体型",
+        "不出现畸形肢体或文字水印"
+      ]
+    },
+    "version": 3,
+    "member_role": "dad",
+    "curated_product_ids": [
+      "709236247613",
+      "1032848417999"
+    ],
+    "curation_review": {
+      "iteration": 1,
+      "status": "approved",
+      "score": 100,
+      "checks": [
+        "真实商品图片已核对",
+        "方案商品组合已核对"
+      ],
+      "improvements": [],
+      "externalFindings": [],
+      "adjudications": [
+        "由设计师工作台人工发布"
+      ],
+      "limitations": [
+        "效果图不代表精确尺码、合身或绝对色彩保证"
+      ]
+    },
+    "tv_materials": {
+      "backgroundImageUrl": "/api/avatar-tv/uploads/5f06fb41a14e15336b685c37a83ac1df.png",
+      "backgroundVideoUrl": "",
+      "backgroundFocalPoint": "left",
+      "backgroundTreatment": "gallery",
+      "heroEyebrow": "杰尼亚·夏夜",
+      "heroTitle": "夏夜清风",
+      "heroSummary": "米白色亚麻夹克搭配海军蓝休闲鞋，低饱和色调让海边晚餐更显从容。",
+      "themeCardTitle": "海滨月光",
+      "themeCardSubtitle": "轻盈透气，优雅漫步",
+      "productShelfLabel": "搭配单品",
+      "qrCodeCaption": "扫一扫，试穿这套清新搭配"
+    }
+  }
+]
