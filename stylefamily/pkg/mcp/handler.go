@@ -10,10 +10,10 @@ import (
 
 	"github.com/pocketbase/pocketbase/core"
 	"github.com/pocketbase/pocketbase/tools/router"
-	"github.com/pocketbase/pocketbase/styletailor/pkg/bailian"
+	"github.com/pocketbase/pocketbase/stylefamily/pkg/bailian"
 )
 
-// Handler exposes StyleTailor MCP tools via an HTTP API.
+// Handler exposes StyleFamily MCP tools via an HTTP API.
 type Handler struct {
 	app         core.App
 	bailian     *bailian.Client
@@ -63,7 +63,7 @@ func (h *Handler) handleToolsList(w http.ResponseWriter, r *http.Request) error 
 	resp := toolsListResponse{
 		Tools: []ToolDefinition{
 			{
-				Name:        "styletailor_generate_look",
+				Name:        "stylefamily_generate_look",
 				Description: "Generate a virtual try-on look for a user based on their body data, portrait and style preference, iterating with negative feedback until the result is good enough.",
 				Parameters: map[string]any{
 					"type": "object",
@@ -79,7 +79,7 @@ func (h *Handler) handleToolsList(w http.ResponseWriter, r *http.Request) error 
 				},
 			},
 			{
-				Name:        "styletailor_feedback",
+				Name:        "stylefamily_feedback",
 				Description: "Submit user feedback on a generated look to trigger a negative-feedback iteration.",
 				Parameters: map[string]any{
 					"type": "object",
@@ -91,7 +91,7 @@ func (h *Handler) handleToolsList(w http.ResponseWriter, r *http.Request) error 
 				},
 			},
 			{
-				Name:        "styletailor_get_result",
+				Name:        "stylefamily_get_result",
 				Description: "Fetch the status and result URLs of a previously submitted look request.",
 				Parameters: map[string]any{
 					"type": "object",
@@ -123,11 +123,11 @@ func (h *Handler) handleToolsCall(w http.ResponseWriter, r *http.Request) error 
 	}
 
 	switch req.Tool {
-	case "styletailor_generate_look":
+	case "stylefamily_generate_look":
 		return h.generateLook(w, r, req.Args)
-	case "styletailor_feedback":
+	case "stylefamily_feedback":
 		return h.feedback(w, r, req.Args)
-	case "styletailor_get_result":
+	case "stylefamily_get_result":
 		return h.getResult(w, r, req.Args)
 	default:
 		return writeJSON(w, map[string]any{"error": "unknown tool", "tool": req.Tool})
@@ -141,7 +141,7 @@ func writeJSON(w http.ResponseWriter, v any) error {
 	return enc.Encode(v)
 }
 
-// generateLook performs the core StyleTailor pipeline.
+// generateLook performs the core StyleFamily pipeline.
 func (h *Handler) generateLook(w http.ResponseWriter, r *http.Request, args map[string]any) error {
 	ctx := r.Context()
 	userID, _ := args["user_id"].(string)

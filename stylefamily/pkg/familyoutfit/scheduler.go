@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/pocketbase/pocketbase/styletailor/pkg/bailian"
+	"github.com/pocketbase/pocketbase/stylefamily/pkg/bailian"
 )
 
 // Scheduler handles periodic outfit generation.

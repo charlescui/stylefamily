@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/pocketbase/pocketbase/styletailor/pkg/bailian"
+	"github.com/pocketbase/pocketbase/stylefamily/pkg/bailian"
 )
 
 // ImageGenerator generates try-on images.

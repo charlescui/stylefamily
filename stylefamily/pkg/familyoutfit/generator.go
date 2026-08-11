@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/pocketbase/pocketbase/styletailor/pkg/bailian"
+	"github.com/pocketbase/pocketbase/stylefamily/pkg/bailian"
 )
 
 // Generator generates outfit plans based on family members and wardrobe.

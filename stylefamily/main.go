@@ -15,9 +15,9 @@ import (
 	"github.com/pocketbase/pocketbase/plugins/migratecmd"
 	"github.com/pocketbase/pocketbase/tools/hook"
 
-	"github.com/pocketbase/pocketbase/styletailor/pkg/bailian"
-	"github.com/pocketbase/pocketbase/styletailor/pkg/familyoutfit"
-	"github.com/pocketbase/pocketbase/styletailor/pkg/mcp"
+	"github.com/pocketbase/pocketbase/stylefamily/pkg/bailian"
+	"github.com/pocketbase/pocketbase/stylefamily/pkg/familyoutfit"
+	"github.com/pocketbase/pocketbase/stylefamily/pkg/mcp"
 )
 
 func main() {
